@@ -1,0 +1,361 @@
+AOP	AOPName	ao	aotitle	organ
+https://identifiers.org/aop/1	Uncharacterized liver damage leading to hepatocellular carcinoma	https://identifiers.org/aop.events/334	Promotion, Hepatocelluar carcinoma	Liver
+https://identifiers.org/aop/10	Binding to the picrotoxin site of ionotropic GABA receptors leading to epileptic seizures in adult brain	https://identifiers.org/aop.events/613	Occurrence, Epileptic seizure	Brain
+https://identifiers.org/aop/100	Cyclooxygenase inhibition leading to reproductive dysfunction via inhibition of female spawning behavior	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/101	Cyclooxygenase inhibition leading to reproductive dysfunction via inhibition of pheromone release	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/102	Cyclooxygenase inhibition leading to reproductive dysfunction via interference with meiotic prophase I /metaphase I transition	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/103	Cyclooxygenase inhibition leading to reproductive dysfunction via interference with spindle assembly checkpoint	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/104	Altered ion channel activity leading impaired heart function	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/105	Alpha2u-microglobulin cytotoxicity leading to renal tubular adenomas and carcinomas (in male rat)	https://identifiers.org/aop.events/713	Increase, Adenomas/carcinomas (renal tubular)	Kidney
+https://identifiers.org/aop/106	Chemical binding to tubulin in oocytes leading to aneuploid offspring	https://identifiers.org/aop.events/728	Increase, Aneuploid offspring	Other
+https://identifiers.org/aop/107	Constitutive androstane receptor activation leading to hepatocellular adenomas and carcinomas in the mouse and the rat	https://identifiers.org/aop.events/719	Increase, hepatocellular adenomas and carcinomas	Liver
+https://identifiers.org/aop/108	Inhibition of pyruvate dehydrogenase kinase leading to hepatocellular adenomas and carcinomas (in mouse and rat)	https://identifiers.org/aop.events/719	Increase, hepatocellular adenomas and carcinomas	Liver
+https://identifiers.org/aop/109	Cytotoxicity leading to bronchioloalveolar adenomas and carcinomas (in mouse)	https://identifiers.org/aop.events/736	Increase, Adenomas/carcinomas (bronchioloalveolar)	Lung
+https://identifiers.org/aop/110	Inhibition of iodide pump activity leading to follicular cell adenomas and carcinomas (in rat and mouse)	https://identifiers.org/aop.events/741	Increase, Adenomas/carcinomas (follicular cell)	Other
+https://identifiers.org/aop/111	Decrease in androgen receptor activity leading to Leydig cell tumors (in rat)	https://identifiers.org/aop.events/745	Increase, Leydig cell tumors	Other
+https://identifiers.org/aop/112	Increased dopaminergic activity leading to endometrial adenocarcinomas (in Wistar rat)	https://identifiers.org/aop.events/773	Increase, Endometrial adenocarcinomas	Other
+https://identifiers.org/aop/113	Glutamate-gated chloride channel activation leading to acute mortality	https://identifiers.org/aop.events/351	Increased Mortality	Brain
+https://identifiers.org/aop/114	HPPD inhibition leading to corneal papillomas and carcinomas (in rat)	https://identifiers.org/aop.events/779	Increase, Papillomas/carcinomas (squamous cells)	Other
+https://identifiers.org/aop/115	Epithelial cytotoxicity leading to forestomach tumors (in mouse and rat)	https://identifiers.org/aop.events/779	Increase, Papillomas/carcinomas (squamous cells)	Other
+https://identifiers.org/aop/116	Cytotoxicity leading to renal tubular adenomas and carcinomas (in male rat)	https://identifiers.org/aop.events/713	Increase, Adenomas/carcinomas (renal tubular)	Kidney
+https://identifiers.org/aop/117	Androgen receptor activation leading to hepatocellular adenomas and carcinomas (in mouse and rat)	https://identifiers.org/aop.events/719	Increase, hepatocellular adenomas and carcinomas	Liver
+https://identifiers.org/aop/118	Chronic cytotoxicity leading to hepatocellular adenomas and carcinomas (in mouse and rat)	https://identifiers.org/aop.events/719	Increase, hepatocellular adenomas and carcinomas	Liver
+https://identifiers.org/aop/119	Inhibition of thyroid peroxidase leading to follicular cell adenomas and carcinomas (in rat and mouse)	https://identifiers.org/aop.events/741	Increase, Adenomas/carcinomas (follicular cell)	Other
+https://identifiers.org/aop/12	Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development leads to neurodegeneration with impairment in learning and memory in aging	https://identifiers.org/aop.events/352	N/A, Neurodegeneration	Brain
+https://identifiers.org/aop/120	Inhibition of 5α-reductase leading to Leydig cell tumors (in rat)	https://identifiers.org/aop.events/745	Increase, Leydig cell tumors	Other
+https://identifiers.org/aop/121	Urinary bladder calculi leading to urothelial papillomas and carcinomas (in mouse and rat)	https://identifiers.org/aop.events/797	Increase, Adenomas/carcinomas (urothelial)	Other
+https://identifiers.org/aop/122	Prolyl hydroxylase inhibition leading to reproductive dysfunction via increased HIF1 heterodimer formation	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/123	Unknown MIE leading to reproductive dysfunction via increased HIF-1alpha transcription	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/124	HMG-CoA reductase inhibition leading to decreased fertility	https://identifiers.org/aop.events/330	Decrease, Fertility	Other
+https://identifiers.org/aop/126	Alpha-noradrenergic antagonism leads to reduced fecundity via delayed ovulation	https://identifiers.org/aop.events/527	Decreased, Decreased fecundity	Other
+https://identifiers.org/aop/128	Kidney dysfunction by decreased thyroid hormone	https://identifiers.org/aop.events/814	Occurrence, Kidney toxicity	Kidney
+https://identifiers.org/aop/13	Chronic binding of antagonist to N-methyl-D-aspartate receptors (NMDARs) during brain development induces impairment of learning and memory abilities	https://identifiers.org/aop.events/341	Impairment, Learning and memory	Brain
+https://identifiers.org/aop/130	Phospholipase A2 (LPLA2) inhibitors leading to hepatotoxicity	https://identifiers.org/aop.events/840	Formation, Liver fibrosis	Liver
+https://identifiers.org/aop/131	Aryl hydrocarbon receptor activation leading to uroporphyria	https://identifiers.org/aop.events/369	Uroporphyria	Other
+https://identifiers.org/aop/134	Sodium Iodide Symporter (NIS) Inhibition and Subsequent Adverse Neurodevelopmental Outcomes in Mammals	https://identifiers.org/aop.events/402	Cognitive Function, Decreased	Brain
+https://identifiers.org/aop/136	Intracellular Acidification Induced Olfactory Epithelial Injury Leading to Site of Contact Nasal Tumors	https://identifiers.org/aop.events/872	Increase, Site of Contact Nasal Tumors	Other
+https://identifiers.org/aop/138	Organic anion transporter (OAT1) inhibition leading to renal failure and mortality	https://identifiers.org/aop.events/351	Increased Mortality	Kidney
+https://identifiers.org/aop/139	Alkylation of DNA leading to cancer 1	https://identifiers.org/aop.events/885	Increase, Cancer	Other
+https://identifiers.org/aop/14	Glucocorticoid Receptor Activation Leading to Increased Disease Susceptibility	https://identifiers.org/aop.events/323	Increased, Disease susceptibility	Other
+https://identifiers.org/aop/141	Alkylation of DNA leading to cancer 2	https://identifiers.org/aop.events/885	Increase, Cancer	Other
+https://identifiers.org/aop/144	Endocytic lysosomal uptake leading to liver fibrosis	https://identifiers.org/aop.events/344	N/A, Liver fibrosis	Liver
+https://identifiers.org/aop/148	EGFR Activation Leading to Decreased Lung Function	https://identifiers.org/aop.events/1250	Decrease, Lung function	Lung
+https://identifiers.org/aop/149	Peptide Oxidation Leading to Hypertension	https://identifiers.org/aop.events/952	Hypertension	Other
+https://identifiers.org/aop/15	Alkylation of DNA in male pre-meiotic germ cells leading to heritable mutations	https://identifiers.org/aop.events/336	Increase, Heritable mutations in offspring	Other
+https://identifiers.org/aop/150	Aryl hydrocarbon receptor activation leading to early life stage mortality, via reduced VEGF	https://identifiers.org/aop.events/947	Increase, Early Life Stage Mortality	Other
+https://identifiers.org/aop/151	AhR activation leading to preeclampsia	https://identifiers.org/aop.events/1893	increase, Preeclampsia	Other
+https://identifiers.org/aop/152	Interference with thyroid serum binding protein transthyretin and subsequent adverse human neurodevelopmental toxicity	https://identifiers.org/aop.events/402	Cognitive Function, Decreased	Brain
+https://identifiers.org/aop/153	Aromatase Inhibition leading to Ovulation Inhibition and Decreased Fertility in Female Rats	https://identifiers.org/aop.events/972	Decreased fertility, Reduced number of oocytes ovulated	Other
+https://identifiers.org/aop/154	Inhibition of Calcineurin Activity Leading to Impaired T-Cell Dependent Antibody Response	https://identifiers.org/aop.events/984	Impairment, T-cell dependent antibody response	Other
+https://identifiers.org/aop/155	Deiodinase 2 inhibition leading to increased mortality via reduced posterior swim bladder inflation	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/156	Deiodinase 2 inhibition leading to increased mortality via reduced anterior swim bladder inflation	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/157	Deiodinase 1 inhibition leading to increased mortality via reduced posterior swim bladder inflation	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/158	Deiodinase 1 inhibition leading to increased mortality via reduced anterior swim bladder inflation	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/159	Thyroperoxidase inhibition leading to increased mortality via reduced anterior swim bladder inflation	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/16	Acetylcholinesterase inhibition leading to acute mortality	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/160	Ionotropic gamma-aminobutyric acid receptor activation mediated neurotransmission inhibition leading to mortality	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/161	Glutamate-gated chloride channel activation leading to neurotransmission inhibition associated mortality	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/162	Enhanced hepatic clearance of thyroid hormones leading to thyroid follicular cell adenomas and carcinomas in the rat and mouse	https://identifiers.org/aop.events/741	Increase, Adenomas/carcinomas (follicular cell)	Other
+https://identifiers.org/aop/164	Beta-2 adrenergic agonist activity leading to mesovarian leiomyomas in the rat and mouse	https://identifiers.org/aop.events/1044	Promotion, mesovarian leiomyomas	Other
+https://identifiers.org/aop/165	Antiestrogen activity leading to ovarian adenomas and granular cell tumors in the mouse	https://identifiers.org/aop.events/1053	Promotion, ovarian adenomas	Other
+https://identifiers.org/aop/166	PPARalpha activation leading to pancreatic acinar tumors in the rat and mouse	https://identifiers.org/aop.events/1063	Increased, Pancreatic acinar tumors	Other
+https://identifiers.org/aop/167	Early-life estrogen receptor activity leading to endometrial carcinoma in the mouse.	https://identifiers.org/aop.events/1070	Increased, adenosquamous carcinomas of endometrium	Other
+https://identifiers.org/aop/168	GnRH pulse disruption leading to mammary adenomas and carcinomas in the SD rat.	https://identifiers.org/aop.events/1079	Increased, Adenomas/carcinomas (mammary)	Other
+https://identifiers.org/aop/169	GnRH pulse disruption leading to pituitary adenomas and carcinomas in the SD rat.	https://identifiers.org/aop.events/1082	Increased, adenomas (pituitary)	Brain
+https://identifiers.org/aop/17	Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress during brain development leads to impairment of learning and memory	https://identifiers.org/aop.events/341	Impairment, Learning and memory	Brain
+https://identifiers.org/aop/170	Anti-dopaminergic activity leading to mammary adenomas and carcinomas in the SD rat	https://identifiers.org/aop.events/1079	Increased, Adenomas/carcinomas (mammary)	Other
+https://identifiers.org/aop/171	Chronic cytotoxicity of the serous membrane leading to pleural/peritoneal mesotheliomas in the rat.	https://identifiers.org/aop.events/1090	Increased, mesotheliomas	Lung
+https://identifiers.org/aop/173	Substance interaction with the pulmonary resident cell membrane components leading to pulmonary fibrosis	https://identifiers.org/aop.events/1458	Pulmonary fibrosis	Lung
+https://identifiers.org/aop/175	Thyroperoxidase inhibition leading to altered amphibian metamorphosis	https://identifiers.org/aop.events/1101	Altered, Amphibian metamorphosis	Other
+https://identifiers.org/aop/176	Sodium Iodide Symporter (NIS) Inhibition leading to altered amphibian metamorphosis	https://identifiers.org/aop.events/1101	Altered, Amphibian metamorphosis	Other
+https://identifiers.org/aop/177	Cyclooxygenase 1 (COX1) inhibition leading to renal failure and mortality	https://identifiers.org/aop.events/351	Increased Mortality	Kidney
+https://identifiers.org/aop/178	Nicotinic acetylcholine receptor activation contributes to mitochondrial dysfunction and leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/179	Varroa mite infestation increases virus levels leading to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/18	PPARα activation in utero leading to impaired fertility in males	https://identifiers.org/aop.events/348	Malformation, Male reproductive tract	Other
+https://identifiers.org/aop/180	Varroa mite infestation contributes to abnormal foraging leading to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/181	Weather event contributes to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/182	Weather event contributes abnormal foraging leading to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/183	Nosema infection increases energetic demands leading to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/184	Nosema infection causes abnormal role change that leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/185	Queen egg-laying decrease leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/186	unknown MIE leading to renal failure and mortality	https://identifiers.org/aop.events/351	Increased Mortality	Kidney
+https://identifiers.org/aop/187	Anticoagulant rodenticide inhibition of vitamin K epoxide reductase resulting coagulopathy and hemorrhage	https://identifiers.org/aop.events/1136	Impaired recruitment , Population trajectory	Other
+https://identifiers.org/aop/188	Iodotyrosine deiodinase (IYD) inhibition leading to altered amphibian metamorphosis	https://identifiers.org/aop.events/1101	Altered, Amphibian metamorphosis	Other
+https://identifiers.org/aop/189	Type I iodothyronine deiodinase (DIO1) inhibition leading to altered amphibian metamorphosis	https://identifiers.org/aop.events/1101	Altered, Amphibian metamorphosis	Other
+https://identifiers.org/aop/19	Androgen receptor antagonism leading to adverse effects in the male foetus (mammals)	https://identifiers.org/aop.events/337	N/A, Impairment of reproductive capacity	Other
+https://identifiers.org/aop/190	Type II iodothyronine deiodinase (DIO2) inhibition leading to altered amphibian metamorphosis	https://identifiers.org/aop.events/1101	Altered, Amphibian metamorphosis	Other
+https://identifiers.org/aop/191	Type III iodotyrosine deiodinase (DIO3) inhibition leading to altered amphibian metamorphosis	https://identifiers.org/aop.events/1101	Altered, Amphibian metamorphosis	Other
+https://identifiers.org/aop/192	Pendrin inhibition leading to altered amphibian metamorphosis	https://identifiers.org/aop.events/1101	Altered, Amphibian metamorphosis	Other
+https://identifiers.org/aop/193	Dual oxidase (DUOX) inhibition leading to altered amphibian metamorphosis	https://identifiers.org/aop.events/1101	Altered, Amphibian metamorphosis	Other
+https://identifiers.org/aop/194	Hepatic nuclear receptor activation leading to altered amphibian metamorphosis	https://identifiers.org/aop.events/1101	Altered, Amphibian metamorphosis	Other
+https://identifiers.org/aop/195	5-hydroxytryptamine transporter (5-HTT) inhibition leading to population increase	https://identifiers.org/aop.events/1164	Increased, Population	Other
+https://identifiers.org/aop/196	Volatile Organic Chemicals Activate TRPA1 Receptor to Induce Sensory Pulmonary Irritation	https://identifiers.org/aop.events/1223	Trigeminal and/or vagal nerve excitation causes Airway Hyper-responsiveness,Cough, Dyspnea	Lung
+https://identifiers.org/aop/200	Estrogen receptor activation leading to breast cancer	https://identifiers.org/aop.events/1193	N/A, Breast Cancer	Other
+https://identifiers.org/aop/201	Juvenile hormone receptor agonism leading to male offspring induction associated population decline	https://identifiers.org/aop.events/1208	Increased, Male offspring	Other
+https://identifiers.org/aop/202	Inhibitor binding to topoisomerase II leading to infant leukaemia	https://identifiers.org/aop.events/1254	Infant leukaemia	Other
+https://identifiers.org/aop/203	5-hydroxytryptamine transporter inhibition leading to decreased reproductive success and population decline	https://identifiers.org/aop.events/1141	Decreased, Reproductive Success	Other
+https://identifiers.org/aop/204	5-hydroxytryptamine transporter inhibition leading to increased reproductive success and population increase	https://identifiers.org/aop.events/1163	Increased, Reproductive Success	Other
+https://identifiers.org/aop/205	AOP from chemical insult to cell death	https://identifiers.org/aop.events/1262	Apoptosis	Other
+https://identifiers.org/aop/206	Peroxisome proliferator-activated receptors γ inactivation leading to lung fibrosis	https://identifiers.org/aop.events/1276	Lung fibrosis	Lung
+https://identifiers.org/aop/207	NADPH oxidase and P38 MAPK activation leading to reproductive failure in Caenorhabditis elegans	https://identifiers.org/aop.events/1277	Reproductive failure	Other
+https://identifiers.org/aop/208	Janus kinase (JAK)/Signal transducer and activator of transcription (STAT) and Transforming growth factor (TGF)-beta pathways activation leading to reproductive failure	https://identifiers.org/aop.events/1277	Reproductive failure	Other
+https://identifiers.org/aop/209	Perturbation of cholesterol and glutathione homeostasis leading to hepatotoxicity: Integrated multi-OMICS approach for building AOP	https://identifiers.org/aop.events/1291	Hepatotoxicity	Liver
+https://identifiers.org/aop/210	Activation of c-Jun N-terminal kinase (JNK) and Forkhead box O (FOXO) and reduction of WNT pathways leading to reproductive failure: Integrated multi-OMICS approach for AOP building	https://identifiers.org/aop.events/1277	Reproductive failure	Other
+https://identifiers.org/aop/212	Histone deacetylase inhibition leading to testicular atrophy	https://identifiers.org/aop.events/1506	Testicular atrophy	Other
+https://identifiers.org/aop/213	Inhibition of fatty acid beta oxidation leading to nonalcoholic steatohepatitis (NASH)	https://identifiers.org/aop.events/1489	N/A, Steatohepatisis	Liver
+https://identifiers.org/aop/214	Network of SSRIs (selective serotonin reuptake inhibitors)	https://identifiers.org/aop.events/1344	Increased, seizure	Brain
+https://identifiers.org/aop/215	Molecular events lead to epilepsy	https://identifiers.org/aop.events/1348	Increase, seizure	Brain
+https://identifiers.org/aop/216	Deposition of energy leading to population decline via DNA strand breaks and follicular atresia	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/217	Gastric ulcer formation	https://identifiers.org/aop.events/1367	Inhibit, gastric ulcer formation	Other
+https://identifiers.org/aop/218	Inhibition of CYP7B activity leads to decreased reproductive success via decreased locomotor activity	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/219	Inhibition of CYP7B activity leads to decreased reproductive success via decreased sexual behavior	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/220	Cyp2E1 Activation Leading to Liver Cancer	https://identifiers.org/aop.events/1395	Liver Cancer	Liver
+https://identifiers.org/aop/221	Mental stress to depression	https://identifiers.org/aop.events/1346	Increased, depression	Brain
+https://identifiers.org/aop/222	Mental stress to agitation	https://identifiers.org/aop.events/1345	Increased, agitation	Brain
+https://identifiers.org/aop/223	Serotonin transporter activation to seizure	https://identifiers.org/aop.events/1344	Increased, seizure	Brain
+https://identifiers.org/aop/224	Serotonin transporter activation to depression	https://identifiers.org/aop.events/1346	Increased, depression	Brain
+https://identifiers.org/aop/225	Serotonin transporter activation to agitation	https://identifiers.org/aop.events/1345	Increased, agitation	Brain
+https://identifiers.org/aop/226	SSRI (Selective serotonin reuptake inhibitor) to hypertension	https://identifiers.org/aop.events/1343	Increase, hypertension	Other
+https://identifiers.org/aop/227	NSAID induced PTGS1 inactivation to gastric ulcer	https://identifiers.org/aop.events/1385	Activated, gastric ulcer formation	Other
+https://identifiers.org/aop/228	NSAID induced PTGS2 inactivation to gastric ulcer	https://identifiers.org/aop.events/1385	Activated, gastric ulcer formation	Other
+https://identifiers.org/aop/229	Helicobacter pylori to gastric ulcer	https://identifiers.org/aop.events/1385	Activated, gastric ulcer formation	Other
+https://identifiers.org/aop/23	Androgen receptor agonism leading to reproductive dysfunction (in repeat-spawning fish)	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/230	presynaptic neuron 1 activation to epilepsy	https://identifiers.org/aop.events/1363	Increased, epilepsy	Brain
+https://identifiers.org/aop/231	presynaptic neuron 2 repression to epilepsy	https://identifiers.org/aop.events/1363	Increased, epilepsy	Brain
+https://identifiers.org/aop/232	NFE2/Nrf2 repression to steatosis	https://identifiers.org/aop.events/1418	Increased, steatosis	Liver
+https://identifiers.org/aop/233	Mu Opioid Receptor Agonism leading to Analgesia via K Channel Opening	https://identifiers.org/aop.events/1428	Analgesia	Other
+https://identifiers.org/aop/234	Mu Opioid Receptor Agonism leading to Analgesia via Ca Channel Inhibition	https://identifiers.org/aop.events/1428	Analgesia	Other
+https://identifiers.org/aop/235	Serotonin 1A Receptor Agonism leading to Anti-depressant Activity via K Channel Opening	https://identifiers.org/aop.events/1432	Anti-depressant Activity	Brain
+https://identifiers.org/aop/236	Serotonin 1A Receptor Agonism leading to Anti-depressant Activity via Ca Channel Inhibition	https://identifiers.org/aop.events/1432	Anti-depressant Activity	Brain
+https://identifiers.org/aop/237	Secretion of inflammatory cytokines after cellular sensing of the stressor leading to plaque progression	https://identifiers.org/aop.events/1443	Plaque progression in arteries	Other
+https://identifiers.org/aop/238	Deposition of energy leading to population decline via DNA strand breaks and oocyte apoptosis	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/241	Latent Transforming Growth Factor beta1 activation leads to pulmonary fibrosis	https://identifiers.org/aop.events/1458	Pulmonary fibrosis	Lung
+https://identifiers.org/aop/242	Inhibition of lysyl oxidase leading to enhanced chronic fish toxicity	https://identifiers.org/aop.events/1467	Growth, reduction	Other
+https://identifiers.org/aop/245	Reduction in photophosphorylation leading to growth inhibition in aquatic plants	https://identifiers.org/aop.events/1521	Decrease, Growth	Other
+https://identifiers.org/aop/25	Aromatase inhibition leading to reproductive dysfunction	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/256	Inhibition of mitochondrial DNA polymerase gamma leading to kidney toxicity	https://identifiers.org/aop.events/814	Occurrence, Kidney toxicity	Kidney
+https://identifiers.org/aop/257	Receptor mediated endocytosis and lysosomal overload leading to kidney toxicity	https://identifiers.org/aop.events/814	Occurrence, Kidney toxicity	Kidney
+https://identifiers.org/aop/258	Renal protein alkylation leading to kidney toxicity	https://identifiers.org/aop.events/814	Occurrence, Kidney toxicity	Kidney
+https://identifiers.org/aop/26	Calcium-mediated neuronal ROS production and energy imbalance	https://identifiers.org/aop.events/356	Increased, Oxidative damage	Other
+https://identifiers.org/aop/260	CYP2E1 activation and formation of protein adducts leading to neurodegeneration	https://identifiers.org/aop.events/1514	Neurodegeneration	Brain
+https://identifiers.org/aop/261	L-type calcium channel blockade leading to heart failure via decrease in cardiac contractility	https://identifiers.org/aop.events/1535	Heart failure	Other
+https://identifiers.org/aop/263	Uncoupling of oxidative phosphorylation leading to  growth inhibition via decreased cell proliferation	https://identifiers.org/aop.events/1521	Decrease, Growth	Other
+https://identifiers.org/aop/264	Uncoupling of oxidative phosphorylation leading to growth inhibition via ATP depletion associated cell death	https://identifiers.org/aop.events/1521	Decrease, Growth	Other
+https://identifiers.org/aop/265	Uncoupling of oxidative phosphorylation leading to growth inhibition via increased cytosolic calcium	https://identifiers.org/aop.events/1521	Decrease, Growth	Other
+https://identifiers.org/aop/266	Uncoupling of oxidative phosphorylation leading to growth inhibition via decreased Na-K ATPase activity	https://identifiers.org/aop.events/1521	Decrease, Growth	Other
+https://identifiers.org/aop/267	Uncoupling of oxidative phosphorylation leading to growth inhibition via glucose depletion	https://identifiers.org/aop.events/1521	Decrease, Growth	Other
+https://identifiers.org/aop/268	Uncoupling of oxidative phosphorylation leading to growth inhibition via mitochondrial swelling	https://identifiers.org/aop.events/1521	Decrease, Growth	Other
+https://identifiers.org/aop/27	Cholestatic Liver Injury induced by Inhibition of the Bile Salt Export Pump (ABCB11)	https://identifiers.org/aop.events/357	Cholestasis, Pathology	Liver
+https://identifiers.org/aop/271	Inhibition of thyroid peroxidase leading to impaired fertility in fish	https://identifiers.org/aop.events/78	Reduction, Cumulative fecundity and spawning	Other
+https://identifiers.org/aop/272	Deposition of energy leading to lung cancer	https://identifiers.org/aop.events/1556	Increase, lung cancer	Lung
+https://identifiers.org/aop/273	Mitochondrial complex inhibition leading to liver injury	https://identifiers.org/aop.events/1549	Liver Injury	Liver
+https://identifiers.org/aop/274	Histone deacetylase inhibition leads to impeded craniofacial development	https://identifiers.org/aop.events/1559	Facial cartilage structures are reduced in size and morphologically distorted	Other
+https://identifiers.org/aop/275	Histone deacetylase inhibition leads to neural tube defects	https://identifiers.org/aop.events/1561	Neural tube defects	Brain
+https://identifiers.org/aop/276	Inhibition of complex I of the electron transport chain leading to chemical induced Fanconi syndrome	https://identifiers.org/aop.events/1564	Chemical induced Fanconi syndrome	Kidney
+https://identifiers.org/aop/277	Impaired IL-1R1 signaling leading to Impaired T-Cell Dependent Antibody Response	https://identifiers.org/aop.events/986	Impairment of TDAR	Other
+https://identifiers.org/aop/278	IKK complex inhibition leading to liver injury	https://identifiers.org/aop.events/1549	Liver Injury	Liver
+https://identifiers.org/aop/279	Microtubule interacting drugs lead to peripheral neuropathy	https://identifiers.org/aop.events/1583	Sensory axonal peripheral neuropathy	Brain
+https://identifiers.org/aop/28	Cyclooxygenase inhibition leading reproductive failure	https://identifiers.org/aop.events/253	N/A, Reproductive failure	Other
+https://identifiers.org/aop/280	α-diketone-induced bronchiolitis obliterans	https://identifiers.org/aop.events/1588	Bronchiolitis obliterans	Lung
+https://identifiers.org/aop/281	Acetylcholinesterase Inhibition Leading to Neurodegeneration	https://identifiers.org/aop.events/352	N/A, Neurodegeneration	Brain
+https://identifiers.org/aop/282	Adverse outcome pathway on photochemical toxicity initiated by light exposure	https://identifiers.org/aop.events/1599	Inflamatory events in light-exposed tissues	Other
+https://identifiers.org/aop/284	Binding of electrophilic chemicals to SH(thiol)-group of proteins and /or to seleno-proteins involved in protection against oxidative stress leads to chronic kidney disease	https://identifiers.org/aop.events/1603	Chronic kidney disease	Kidney
+https://identifiers.org/aop/285	Inhibition of N-linked glycosylation leads to liver injury	https://identifiers.org/aop.events/1549	Liver Injury	Liver
+https://identifiers.org/aop/286	Mitochondrial complex III antagonism leading to growth inhibition (1)	https://identifiers.org/aop.events/1521	Decrease, Growth	Other
+https://identifiers.org/aop/287	Mitochondrial complex III antagonism leading to growth inhibition (2)	https://identifiers.org/aop.events/1521	Decrease, Growth	Other
+https://identifiers.org/aop/288	Inhibition of 17α-hydrolase/C 10,20-lyase (Cyp17A1) activity leads to birth reproductive defects (cryptorchidism) in male (mammals)	https://identifiers.org/aop.events/1616	Malformation, cryptorchidism - maldescended testis	Other
+https://identifiers.org/aop/289	Inhibition of 5α-reductase leading to impaired fecundity in female fish	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/29	Estrogen receptor agonism leading to reproductive dysfunction	https://identifiers.org/aop.events/339	Altered, Larval development	Other
+https://identifiers.org/aop/290	Mitochondrial ATP synthase antagonism leading to growth inhibition (1)	https://identifiers.org/aop.events/1521	Decrease, Growth	Other
+https://identifiers.org/aop/291	Mitochondrial ATP synthase antagonism leading to growth inhibition (2)	https://identifiers.org/aop.events/1521	Decrease, Growth	Other
+https://identifiers.org/aop/292	Inhibition of tyrosinase leads to decreased population in fish	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/293	Increased DNA damage leading to increased risk of breast cancer	https://identifiers.org/aop.events/1193	N/A, Breast Cancer	Other
+https://identifiers.org/aop/294	Increased reactive oxygen and nitrogen species (RONS) leading to increased risk of breast cancer	https://identifiers.org/aop.events/1193	N/A, Breast Cancer	Other
+https://identifiers.org/aop/296	Oxidative DNA damage leading to chromosomal aberrations and mutations	https://identifiers.org/aop.events/1636	Increase, Chromosomal aberrations	Other
+https://identifiers.org/aop/297	Inhibition of retinaldehyde dehydrogenase leads to population decline	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/298	Increases in cellular reactive oxygen species (Chronic reactive oxygen species) leading to human treatment-resistant gastric cancer	https://identifiers.org/aop.events/1651	Treatment-resistant gastric cancer	Other
+https://identifiers.org/aop/299	Deposition of energy leading to population decline via DNA oxidation and follicular atresia	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/3	Inhibition of the mitochondrial complex I of nigro-striatal neurons leads to parkinsonian motor deficits	https://identifiers.org/aop.events/896	Parkinsonian motor deficits	Brain
+https://identifiers.org/aop/30	Estrogen receptor antagonism leading to reproductive dysfunction	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/300	Thyroid Receptor Antagonism and Subsequent Adverse Neurodevelopmental Outcomes in Mammals	https://identifiers.org/aop.events/402	Cognitive Function, Decreased	Brain
+https://identifiers.org/aop/301	Inhibition of Cystathionine Beta synthase leading to impaired the early development of anterior-posterior axis	https://identifiers.org/aop.events/1667	Impaired,anterior-posterior axis development	Other
+https://identifiers.org/aop/302	Lung surfactant function inhibition leading to decreased lung function	https://identifiers.org/aop.events/1250	Decrease, Lung function	Lung
+https://identifiers.org/aop/303	Frustrated phagocytosis-induced lung cancer	https://identifiers.org/aop.events/1670	Lung cancer	Lung
+https://identifiers.org/aop/304	TBX1 inhibition leading to congenital cardiac conotruncal anomalies	https://identifiers.org/aop.events/1685	Anomalies, Congenital cardiac conotruncal	Other
+https://identifiers.org/aop/305	5α-reductase inhibition leading to short anogenital distance (AGD) in male (mammalian) offspring	https://identifiers.org/aop.events/1688	anogenital distance (AGD), decreased	Other
+https://identifiers.org/aop/306	Androgen receptor (AR) antagonism leading to short anogenital distance (AGD) in male (mammalian) offspring	https://identifiers.org/aop.events/1688	anogenital distance (AGD), decreased	Other
+https://identifiers.org/aop/307	Decreased testosterone synthesis leading to short anogenital distance (AGD) in male (mammalian) offspring	https://identifiers.org/aop.events/1688	anogenital distance (AGD), decreased	Other
+https://identifiers.org/aop/309	Luteinizing hormone receptor antagonism leading to reproductive dysfunction	https://identifiers.org/aop.events/679	Decline, Population trajectory	Other
+https://identifiers.org/aop/31	Oxidation of iron in hemoglobin leading to hematotoxicity	https://identifiers.org/aop.events/321	N/A, Cyanosis occurs	Other
+https://identifiers.org/aop/310	Embryonic Activation of the AHR leading to Reproductive failure, via epigenetic down-regulation of GnRHR	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/311	Deposition of energy leading to population decline via DNA oxidation and oocyte apoptosis	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/312	Acetylcholinesterase Inhibition leading to Acute Mortality via Impaired Coordination & Movement​	https://identifiers.org/aop.events/351	Increased Mortality	Brain
+https://identifiers.org/aop/313	Stimulation of TLR7/8 in dendric cells leading to Psoriatic skin disease	https://identifiers.org/aop.events/1709	Psoriatic skin disease	Other
+https://identifiers.org/aop/314	Binding to estrogen receptor (ER)-α in immune cells leading to exacerbation of systemic lupus erythematosus (SLE)	https://identifiers.org/aop.events/1714	Exacerbation of systemic lupus erythematosus (SLE)	Other
+https://identifiers.org/aop/315	Inhibition of JAK3 leading to impairment of T-Cell Dependent Antibody Response	https://identifiers.org/aop.events/1719	Impairment of T-cell dependent antibody response	Other
+https://identifiers.org/aop/316	Trypsin inhibition leading to pancreatic acinar cell tumors	https://identifiers.org/aop.events/1725	Pancreatic acinar cell tumors	Other
+https://identifiers.org/aop/318	Glucocorticoid Receptor activation leading to hepatic steatosis	https://identifiers.org/aop.events/459	Increased, Liver Steatosis	Liver
+https://identifiers.org/aop/319	Binding to ACE2 leading to lung fibrosis	https://identifiers.org/aop.events/1276	Lung fibrosis	Lung
+https://identifiers.org/aop/320	Binding of SARS-CoV-2 to ACE2 receptor leading to acute respiratory distress associated mortality	https://identifiers.org/aop.events/351	Increased Mortality	Lung
+https://identifiers.org/aop/322	Alkylation of DNA leading to reduced sperm count	https://identifiers.org/aop.events/1757	Reduce, Sperm count	Other
+https://identifiers.org/aop/323	PPARalpha Agonism Impairs Fish Reproduction	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/324	Thermal stress leading to population decline (1)	https://identifiers.org/aop.events/328	Decrease, Fecundity	Other
+https://identifiers.org/aop/325	Thermal stress leading to population decline (2)	https://identifiers.org/aop.events/328	Decrease, Fecundity	Other
+https://identifiers.org/aop/326	Thermal stress leading to population decline (3)	https://identifiers.org/aop.events/328	Decrease, Fecundity	Other
+https://identifiers.org/aop/327	Excessive reactive oxygen species production leading to mortality (1)	https://identifiers.org/aop.events/350	Increase, Mortality	Other
+https://identifiers.org/aop/328	Excessive reactive oxygen species production leading to mortality (2)	https://identifiers.org/aop.events/350	Increase, Mortality	Other
+https://identifiers.org/aop/329	Excessive reactive oxygen species production leading to mortality (3)	https://identifiers.org/aop.events/350	Increase, Mortality	Other
+https://identifiers.org/aop/33	Kidney toxicity induced by activation of 5HT2C	https://identifiers.org/aop.events/759	Increased, Kidney Failure	Kidney
+https://identifiers.org/aop/330	Excessive reactive oxygen species production leading to mortality (4)	https://identifiers.org/aop.events/350	Increase, Mortality	Other
+https://identifiers.org/aop/331	Formation of DNA photoproducts leading to growth inhibition (1)	https://identifiers.org/aop.events/350	Increase, Mortality	Other
+https://identifiers.org/aop/334	Glucocorticoid Receptor Agonism Leading to Impaired Fin Regeneration	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/335	AOP for urothelial carcinogenesis due to chemical cytotoxicity by mitochondrial impairment	https://identifiers.org/aop.events/1763	Urothelial Tumor	Other
+https://identifiers.org/aop/336	DNA methyltransferase inhibition leading to population decline (1)	https://identifiers.org/aop.events/328	Decrease, Fecundity	Other
+https://identifiers.org/aop/337	DNA methyltransferase inhibition leading to population decline (2)	https://identifiers.org/aop.events/328	Decrease, Fecundity	Other
+https://identifiers.org/aop/338	DNA methyltransferase inhibition leading to population decline (3)	https://identifiers.org/aop.events/328	Decrease, Fecundity	Other
+https://identifiers.org/aop/339	DNA methyltransferase inhibition leading to population decline (4)	https://identifiers.org/aop.events/328	Decrease, Fecundity	Other
+https://identifiers.org/aop/34	LXR activation leading to hepatic steatosis	https://identifiers.org/aop.events/345	N/A, Liver Steatosis	Liver
+https://identifiers.org/aop/340	DNA methyltransferase inhibition leading to transgenerational effects (1)	https://identifiers.org/aop.events/1781	Decrease, Fecundity (F3)	Other
+https://identifiers.org/aop/341	DNA methyltransferase inhibition leading to transgenerational effects (2)	https://identifiers.org/aop.events/1781	Decrease, Fecundity (F3)	Other
+https://identifiers.org/aop/342	S-adenosylmethionine depletion leading to population decline (1)	https://identifiers.org/aop.events/350	Increase, Mortality	Other
+https://identifiers.org/aop/343	S-adenosylmethionine depletion leading to population decline (2)	https://identifiers.org/aop.events/350	Increase, Mortality	Other
+https://identifiers.org/aop/344	Androgen receptor (AR) antagonism leading to nipple retention (NR) in male (mammalian) offspring	https://identifiers.org/aop.events/1786	Nipple retention (NR), increased	Other
+https://identifiers.org/aop/345	Androgen receptor (AR) antagonism leading to decreased fertility in females	https://identifiers.org/aop.events/972	Decreased fertility, Reduced number of oocytes ovulated	Other
+https://identifiers.org/aop/346	Aromatase inhibition leads to male-biased sex ratio via impacts on gonad differentiation	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/347	Toll-like receptor 4 activation and peroxisome proliferator-activated receptor gamma inactivation leading to pulmonary fibrosis	https://identifiers.org/aop.events/1458	Pulmonary fibrosis	Lung
+https://identifiers.org/aop/348	Inhibition of 11β-Hydroxysteroid Dehydrogenase leading to decreased population trajectory	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/349	Inhibition of 11β-hydroxylase leading to decresed population trajectory	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/358	Chitinase inhibition leading to mortality	https://identifiers.org/aop.events/350	Increase, Mortality	Other
+https://identifiers.org/aop/359	Chitobiase inhibition leading to mortality	https://identifiers.org/aop.events/350	Increase, Mortality	Other
+https://identifiers.org/aop/36	Peroxisomal Fatty Acid Beta-Oxidation Inhibition Leading to Steatosis	https://identifiers.org/aop.events/459	Increased, Liver Steatosis	Liver
+https://identifiers.org/aop/360	Chitin synthase 1 inhibition leading to mortality	https://identifiers.org/aop.events/350	Increase, Mortality	Other
+https://identifiers.org/aop/361	Sulfonylureareceptor binding leading to mortality	https://identifiers.org/aop.events/350	Increase, Mortality	Other
+https://identifiers.org/aop/362	Immune mediated hepatitis	https://identifiers.org/aop.events/1820	Immune mediated hepatitis	Liver
+https://identifiers.org/aop/363	Thyroperoxidase inhibition leading to altered visual function via altered retinal layer structure	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/364	Thyroperoxidase inhibition leading to altered visual function via decreased eye size	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/365	Thyroperoxidase inhibition leading to altered visual function via altered photoreceptor patterning	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/366	Competitive binding to thyroid hormone carrier protein transthyretin (TTR) leading to altered amphibian metamorphosis	https://identifiers.org/aop.events/1101	Altered, Amphibian metamorphosis	Other
+https://identifiers.org/aop/367	Competitive binding to thyroid hormone carrier protein thyroid binding globulin (TBG) leading to altered amphibian metamorphosis	https://identifiers.org/aop.events/1101	Altered, Amphibian metamorphosis	Other
+https://identifiers.org/aop/368	Cytochrome oxidase inhibition leading to olfactory nasal lesions	https://identifiers.org/aop.events/872	Increase, Site of Contact Nasal Tumors	Other
+https://identifiers.org/aop/37	PPARα activation leading to hepatocellular adenomas and carcinomas in rodents	https://identifiers.org/aop.events/719	Increase, hepatocellular adenomas and carcinomas	Liver
+https://identifiers.org/aop/372	Androgen receptor antagonism leading to testicular cancer	https://identifiers.org/aop.events/1839	Testicular Cancer	Other
+https://identifiers.org/aop/374	Binding of Sars-CoV-2 spike protein to ACE 2 receptors expressed on brain cells (neuronal and non-neuronal) leads to neuroinflammation resulting in encephalitis	https://identifiers.org/aop.events/1841	Encephalitis	Brain
+https://identifiers.org/aop/376	Androgen receptor agonism leading to male-biased sex ratio	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/377	Dysregulated prolonged Toll Like Receptor 9 (TLR9) activation leading to Multi Organ Failure involving Acute Respiratory Distress Syndrome (ARDS)	https://identifiers.org/aop.events/1843	Multi Organ Failure involving Acute Respiratory Distress Syndrome	Other
+https://identifiers.org/aop/379	Binding to ACE2 leading to thrombosis and disseminated intravascular coagulation	https://identifiers.org/aop.events/1846	Thrombosis and Disseminated Intravascular Coagulation	Other
+https://identifiers.org/aop/38	Protein Alkylation leading to Liver Fibrosis	https://identifiers.org/aop.events/344	N/A, Liver fibrosis	Liver
+https://identifiers.org/aop/381	Binding of viral S-glycoprotein to ACE2 receptor leading to dysgeusia	https://identifiers.org/aop.events/1850	dysgeusia	Other
+https://identifiers.org/aop/382	Angiotensin II type 1 receptor (AT1R) agonism leading to lung fibrosis	https://identifiers.org/aop.events/1276	Lung fibrosis	Lung
+https://identifiers.org/aop/383	Inhibition of Angiotensin-converting enzyme 2 leading to liver fibrosis	https://identifiers.org/aop.events/344	N/A, Liver fibrosis	Liver
+https://identifiers.org/aop/384	Hyperactivation of ACE/Ang-II/AT1R axis leading to chronic kidney disease	https://identifiers.org/aop.events/1603	Chronic kidney disease	Kidney
+https://identifiers.org/aop/386	Deposition of ionizing energy leads to leading to population decline via inhibition of photosynthesis	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/387	Deposition of ionising energy leading to population decline via mitochondrial dysfunction	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/388	Deposition of ionising energy  leading to population decline via programmed cell death	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/389	Oxygen-evolving complex damage leading to population decline via inhibition of photosynthesis	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/39	Covalent Binding of Low Molecular Weight Organic Chemicals to Proteins leads to Sensitisation (Sensitization) of the Respiratory Tract	https://identifiers.org/aop.events/313	Increase, Allergic Respiratory Hypersensitivity Response	Other
+https://identifiers.org/aop/392	Decreased fibrinolysis and activated bradykinin system leading to hyperinflammation	https://identifiers.org/aop.events/1868	Hyperinflammation	Other
+https://identifiers.org/aop/394	SARS-CoV-2 infection of olfactory epithelium leading to impaired olfactory function (short-term anosmia)	https://identifiers.org/aop.events/1873	impaired olfactory function (anosmia)	Other
+https://identifiers.org/aop/395	Binding of Sars-CoV-2 spike protein to ACE 2 receptors expressed on pericytes leads to disseminated intravascular coagulation resulting in cerebrovascular disease (stroke)	https://identifiers.org/aop.events/1875	Cerebrovascular disease (stroke)	Brain
+https://identifiers.org/aop/396	Deposition of ionizing energy leads to population decline via impaired meiosis	https://identifiers.org/aop.events/1696	Decrease of egg production and cummulative fecundity	Other
+https://identifiers.org/aop/397	Bulky DNA adducts leading to mutations	https://identifiers.org/aop.events/185	Increase, Mutations	Other
+https://identifiers.org/aop/398	Inhibition of ALDH1A (RALDH) causing reduced all-trans retinoic acid levels leading to impaired fertility, females	https://identifiers.org/aop.events/406	impaired, Fertility	Other
+https://identifiers.org/aop/399	Inhibition of Fyna leading to increased mortality via decreased eye size (Microphthalmos)	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/40	Covalent Protein binding leading to Skin Sensitisation	https://identifiers.org/aop.events/827	sensitisation, skin	Other
+https://identifiers.org/aop/400	Increased (ectopic) concentration of all-trans retinoic acid (ATRA) if fetal testis leading to reduced sperm count, males	https://identifiers.org/aop.events/1757	Reduce, Sperm count	Other
+https://identifiers.org/aop/401	G protein-coupled estrogen receptor 1 (GPER) signal pathway in the endocrine disrupting effect	https://identifiers.org/aop.events/1489	N/A, Steatohepatisis	Liver
+https://identifiers.org/aop/405	Organo-Phosphate Chemicals induced inhibition of AChE  leading to impaired cognitive function	https://identifiers.org/aop.events/402	Cognitive Function, Decreased	Brain
+https://identifiers.org/aop/406	SARS-CoV-2 infection leading to hyperinflammation	https://identifiers.org/aop.events/1868	Hyperinflammation	Other
+https://identifiers.org/aop/407	SARS-CoV-2 infection leading to pyroptosis	https://identifiers.org/aop.events/1967	Pyroptosis	Other
+https://identifiers.org/aop/409	Frustrated phagocytosis leads to malignant mesothelioma	https://identifiers.org/aop.events/1090	Increased, mesotheliomas	Lung
+https://identifiers.org/aop/41	Sustained AhR Activation leading to Rodent Liver Tumours	https://identifiers.org/aop.events/856	Formation, Hepatocellular and Bile duct tumors	Liver
+https://identifiers.org/aop/410	GSK3beta inactivation leading to increased mortality via defects in developing inner ear	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/411	Oxidative stress Leading to Decreased Lung Function	https://identifiers.org/aop.events/1250	Decrease, Lung function	Lung
+https://identifiers.org/aop/412	Endothelial cell dysfunction leading to thromboinflammation	https://identifiers.org/aop.events/1916	Thromboinflammation, Increased	Other
+https://identifiers.org/aop/413	Oxidation and antagonism of reduced glutathione leading to mortality via acute renal failure	https://identifiers.org/aop.events/351	Increased Mortality	Kidney
+https://identifiers.org/aop/415	Aryl hydrocarbon receptor activation leading to lung fibrosis through IL-6 toxicity pathway	https://identifiers.org/aop.events/1276	Lung fibrosis	Other
+https://identifiers.org/aop/416	Aryl hydrocarbon receptor activation leading to lung cancer through IL-6 toxicity pathway	https://identifiers.org/aop.events/1670	Lung cancer	Other
+https://identifiers.org/aop/417	Aryl hydrocarbon receptor activation leading to lung cancer through AHR-ARNT toxicity pathway	https://identifiers.org/aop.events/1670	Lung cancer	Other
+https://identifiers.org/aop/419	Aryl hydrocarbon receptor activation leading to impaired lung function through P53 toxicity pathway	https://identifiers.org/aop.events/1250	Decrease, Lung function	Lung
+https://identifiers.org/aop/42	Inhibition of Thyroperoxidase and Subsequent Adverse Neurodevelopmental Outcomes in Mammals	https://identifiers.org/aop.events/402	Cognitive Function, Decreased	Brain
+https://identifiers.org/aop/423	Toxicological mechanisms of hepatocyte apoptosis through the PARP1 dependent cell death pathway	https://identifiers.org/aop.events/1817	Apoptotic cell death	Liver
+https://identifiers.org/aop/424	Oxidative stress Leading to Decreased Lung Function via CFTR dysfunction	https://identifiers.org/aop.events/1250	Decrease, Lung function	Lung
+https://identifiers.org/aop/425	Oxidative Stress Leading to Decreased Lung Function via Decreased FOXJ1	https://identifiers.org/aop.events/1250	Decrease, Lung function	Lung
+https://identifiers.org/aop/426	SARS-CoV-2 spike protein binding to ACE2 receptors expressed on pericytes leads to endothelial cell dysfunction, microvascular injury and myocardial infarction.	https://identifiers.org/aop.events/1934	Myocardial Infarction	Other
+https://identifiers.org/aop/427	ACE2 downregulation following SARS-CoV-2 infection triggers dysregulation of RAAS and can lead to heart failure.	https://identifiers.org/aop.events/1535	Heart failure	Other
+https://identifiers.org/aop/429	A cholesterol/glucose dysmetabolism initiated Tau-driven AOP toward memory loss (AO) in sporadic Alzheimer's Disease with plausible MIE's plug-ins for environmental neurotoxicants	https://identifiers.org/aop.events/1941	Memory Loss	Brain
+https://identifiers.org/aop/43	Disruption of VEGFR Signaling Leading to Developmental Defects	https://identifiers.org/aop.events/1001	Increased, Developmental Defects	Other
+https://identifiers.org/aop/430	Binding of SARS-CoV-2 to ACE2 leads to viral infection proliferation	https://identifiers.org/aop.events/1939	Viral infection and host-to-host transmission, proliferated	Other
+https://identifiers.org/aop/431	Increased tumor necrosis factor (TNF) leading to increased risk of gestational diabetes mellitus (GDM)	https://identifiers.org/aop.events/1953	Gestational diabetes mellitus	Other
+https://identifiers.org/aop/432	Deposition of Energy by Ionizing Radiation leading to Acute Myeloid Leukemia	https://identifiers.org/aop.events/1955	Acute Myeloid Leukemia	Other
+https://identifiers.org/aop/433	hERG inhibition leading to cardiac toxicity	https://identifiers.org/aop.events/1964	Sudden cardiac death	Other
+https://identifiers.org/aop/435	Deposition of ionising energy leads to population decline via pollen abnormal	https://identifiers.org/aop.events/442	Decreased, Population trajectory	Other
+https://identifiers.org/aop/436	Inhibition of RALDH2 causes reduced all-trans retinoic acid levels, leading to transposition of the great arteries	https://identifiers.org/aop.events/1970	transposition of the great arteries	Other
+https://identifiers.org/aop/437	Inhibition of mitochondrial electron transport chain (ETC) complexes leading to kidney toxicity	https://identifiers.org/aop.events/814	Occurrence, Kidney toxicity	Kidney
+https://identifiers.org/aop/439	Activation of the AhR leading to breast cancer	https://identifiers.org/aop.events/1193	N/A, Breast Cancer	Other
+https://identifiers.org/aop/440	Hypothalamic estrogen receptors inhibition leading to ovarian cancer	https://identifiers.org/aop.events/1053	Promotion, ovarian adenomas	Other
+https://identifiers.org/aop/441	Ionizing radiation-induced DNA damage leads to microcephaly via apoptosis and premature cell differentiation	https://identifiers.org/aop.events/1978	Increase risk, microcephaly	Other
+https://identifiers.org/aop/442	Inhibition of voltage gate sodium channels leading to impairment in learning and memory during development	https://identifiers.org/aop.events/341	Impairment, Learning and memory	Brain
+https://identifiers.org/aop/443	Alcohol Induced DNA damage and mutations leading to Metastatic Breast Cancer	https://identifiers.org/aop.events/1982	metastatic breast cancer	Other
+https://identifiers.org/aop/444	Ionizing radiation leads to reduced reproduction in Eisenia fetida via reduced spermatogenesis and cocoon hatchability	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/445	Estrogen Receptor Alpha Agonism leads to Impaired Reproduction	https://identifiers.org/aop.events/1991	Impaired, Reproduction	Other
+https://identifiers.org/aop/447	Kidney failure induced by inhibition of mitochondrial electron transfer chain through apoptosis, inflammation and oxidative stress pathways	https://identifiers.org/aop.events/759	Increased, Kidney Failure	Kidney
+https://identifiers.org/aop/449	Ceramide synthase inhibition leading to neural tube defects	https://identifiers.org/aop.events/1561	Neural tube defects	Brain
+https://identifiers.org/aop/450	Inhibition of AChE and activation of CYP2E1 leading to sensory axonal peripheral neuropathy and mortality	https://identifiers.org/aop.events/1583	Sensory axonal peripheral neuropathy	Brain
+https://identifiers.org/aop/451	Interaction with lung resident cell membrane components leads to lung cancer	https://identifiers.org/aop.events/1670	Lung cancer	Lung
+https://identifiers.org/aop/452	Adverse outcome pathway of PM-induced respiratory toxicity	https://identifiers.org/aop.events/2008	Chronic obstructive pulmonary disease	Lung
+https://identifiers.org/aop/455	Aryl hydrocarbon receptor activation leading to early life stage mortality via impeded craniofacial development	https://identifiers.org/aop.events/947	Increase, Early Life Stage Mortality	Other
+https://identifiers.org/aop/456	Aryl hydrocarbon receptor activation leading to early life stage mortality via cardiovascular toxicity	https://identifiers.org/aop.events/947	Increase, Early Life Stage Mortality	Other
+https://identifiers.org/aop/46	AFB1: Mutagenic Mode-of-Action leading to Hepatocellular Carcinoma (HCC)	https://identifiers.org/aop.events/378	Tumorigenesis, Hepatocellular carcinoma	Liver
+https://identifiers.org/aop/460	Antagonism of Smoothened receptor leading to orofacial clefting	https://identifiers.org/aop.events/2042	Ororofacial clefting	Other
+https://identifiers.org/aop/464	Calcium overload in dopaminergic neurons of the substantia nigra leading to parkinsonian motor deficits	https://identifiers.org/aop.events/896	Parkinsonian motor deficits	Brain
+https://identifiers.org/aop/468	Binding of SARS-CoV-2 to ACE2 leads to hyperinflammation (via cell death)	https://identifiers.org/aop.events/1868	Hyperinflammation	Other
+https://identifiers.org/aop/470	Deposition of energy leads to vascular remodeling	https://identifiers.org/aop.events/2069	Occurrence, Vascular Remodeling	Other
+https://identifiers.org/aop/473	Energy deposition from internalized Ra-226 decay lower oxygen binding capacity of hemocyanin	https://identifiers.org/aop.events/1141	Decreased, Reproductive Success	Other
+https://identifiers.org/aop/475	Binding of chemicals to ionotropic glutamate receptors leads to impairment of learning and memory via loss of drebrin from dendritic spines of neurons	https://identifiers.org/aop.events/341	Impairment, Learning and memory	Brain
+https://identifiers.org/aop/476	Adverse Outcome Pathways diagram related to PBDEs associated male reproductive toxicity	https://identifiers.org/aop.events/1616	Malformation, cryptorchidism - maldescended testis	Other
+https://identifiers.org/aop/478	Deposition of energy leading to occurrence of cataracts	https://identifiers.org/aop.events/2083	Occurrence of Cataracts	Other
+https://identifiers.org/aop/48	Binding of agonists to ionotropic glutamate receptors in adult brain causes excitotoxicity that mediates neuronal cell death, contributing to learning and memory impairment.	https://identifiers.org/aop.events/341	Impairment, Learning and memory	Brain
+https://identifiers.org/aop/51	PPARα activation leading to impaired fertility in adult male rodents	https://identifiers.org/aop.events/406	impaired, Fertility	Other
+https://identifiers.org/aop/52	ER agonism leading to skewed sex ratios due to altered sexual differentiation in males	https://identifiers.org/aop.events/417	skewed, sex ratio	Other
+https://identifiers.org/aop/54	Inhibition of Na+/I- symporter (NIS) leads to learning and memory impairment	https://identifiers.org/aop.events/341	Impairment, Learning and memory	Brain
+https://identifiers.org/aop/57	AhR activation leading to hepatic steatosis	https://identifiers.org/aop.events/455	Accumulation, Liver lipid	Liver
+https://identifiers.org/aop/58	NR1I3 (CAR) suppression leading to hepatic steatosis	https://identifiers.org/aop.events/459	Increased, Liver Steatosis	Liver
+https://identifiers.org/aop/6	Antagonist binding to PPARα leading to body-weight loss	https://identifiers.org/aop.events/864	Decreased, Body Weight	Other
+https://identifiers.org/aop/60	NR1I2 (Pregnane X Receptor, PXR)  activation leading to hepatic steatosis	https://identifiers.org/aop.events/459	Increased, Liver Steatosis	Liver
+https://identifiers.org/aop/61	NFE2L2/FXR activation leading to hepatic steatosis	https://identifiers.org/aop.events/459	Increased, Liver Steatosis	Liver
+https://identifiers.org/aop/62	AKT2 activation leading to hepatic steatosis	https://identifiers.org/aop.events/459	Increased, Liver Steatosis	Liver
+https://identifiers.org/aop/63	Cyclooxygenase inhibition leading to reproductive dysfunction	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/64	Glucocorticoid Receptor (GR) Mediated Adult Leydig Cell Dysfunction Leading to Decreased Male Fertility	https://identifiers.org/aop.events/406	impaired, Fertility	Other
+https://identifiers.org/aop/65	XX Inhibition of Sodium Iodide Symporter and Subsequent Adverse Neurodevelopmental Outcomes in Mammals	https://identifiers.org/aop.events/402	Cognitive Function, Decreased	Brain
+https://identifiers.org/aop/66	Modulation of Adult Leydig Cell Function Subsequent Glucocorticoid Activation in the Fetal Testis	https://identifiers.org/aop.events/505	Decreased sperm quantity / quality in the adult, Decreased fertility	Other
+https://identifiers.org/aop/67	Modulation of Adult Leydig Cell Function Subsequent to Estradiaol Activation in the Fetal Testis	https://identifiers.org/aop.events/505	Decreased sperm quantity / quality in the adult, Decreased fertility	Other
+https://identifiers.org/aop/68	Modulation of Adult Leydig Cell Function Subsequent to Alterations in the Fetal Testis Protome	https://identifiers.org/aop.events/505	Decreased sperm quantity / quality in the adult, Decreased fertility	Other
+https://identifiers.org/aop/69	Modulation of Adult Leydig Cell Function Subsequent to Decreased Cholesterol Synthesis or Transport in the Adult Leydig Cell	https://identifiers.org/aop.events/646	Decreased Cholesterol, Decreased sperm quantity and/or quality in the adult testis	Other
+https://identifiers.org/aop/7	Aromatase (Cyp19a1) reduction leading to impaired fertility in adult female	https://identifiers.org/aop.events/405	irregularities, ovarian cycle	Other
+https://identifiers.org/aop/70	Modulation of Adult Leydig Cell Function Subsequent to Proteomic Alterations in the Adult Leydig Cell	https://identifiers.org/aop.events/520	Decreased sperm quantity or quality in the adult, Decreased fertility	Other
+https://identifiers.org/aop/71	Modulation of Adult Leydig Cell Function Subsequent to Glucocorticoid Activation	https://identifiers.org/aop.events/520	Decreased sperm quantity or quality in the adult, Decreased fertility	Other
+https://identifiers.org/aop/72	Epigenetic modification of PPARG leading to adipogenesis	https://identifiers.org/aop.events/1447	obesity	Other
+https://identifiers.org/aop/73	Xenobiotic Inhibition of Dopamine-beta-Hydroxylase and subsequent reduced fecundity	https://identifiers.org/aop.events/527	Decreased, Decreased fecundity	Other
+https://identifiers.org/aop/74	Modulation of Adult Leydig Cell Function Subsequent to Hypermethylation in the Fetal Testis	https://identifiers.org/aop.events/543	Decreased fertility in the adult, Decreased sperm quantity and/or quality in the adult testis	Other
+https://identifiers.org/aop/77	Nicotinic acetylcholine receptor activation contributes to abnormal foraging and leads to colony death/failure 1	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/78	Nicotinic acetylcholine receptor activation contributes to abnormal role change within the worker bee caste leading to colony death failure 1	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/79	Nicotinic acetylcholine receptor activation contributes to impaired hive thermoregulation and leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/8	Upregulation of Thyroid Hormone Catabolism via Activation of Hepatic Nuclear Receptors, and Subsequent Adverse Neurodevelopmental Outcomes in Mammals	https://identifiers.org/aop.events/319	Loss, Cochlear function	Other
+https://identifiers.org/aop/80	Nicotinic acetylcholine receptor activation contributes to accumulation of damaged mitochondrial DNA and leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/81	Increased metabolic stress contributes to abnormal foraging and leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/82	Abnormal role change in worker caste contributes to reduced brood care and leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/84	Suppression of immune system contributes to impaired development and leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/85	Suppression of immune system contributes to abnormal foraging and leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/86	Decrease Glucose oxidase activity contributes to reduction of antiseptic in food and leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/87	Nicotinic acetylcholine receptor activation contributes to abnormal foraging and leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/88	Nicotinic acetylcholine receptor activation contributes to abnormal foraging and leads to colony loss/failure via abnormal role change within caste	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/89	Nicotinic acetylcholine receptor activation followed by desensitization contributes to abnormal foraging and directly leads to colony loss/failure	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/90	Nicotinic acetylcholine receptor activation contributes to abnormal roll change within the worker bee caste leading to colony loss/failure 2	https://identifiers.org/aop.events/563	Death/Failure, Colony	Other
+https://identifiers.org/aop/91	Sodium channel inhibition leading to reduced survival	https://identifiers.org/aop.events/587	Reduced, feeding 1	Other
+https://identifiers.org/aop/93	sodium channel inhibition leading to increased predation	https://identifiers.org/aop.events/588	Increased, predation	Other
+https://identifiers.org/aop/94	Sodium channel inhibition leading to congenital malformations	https://identifiers.org/aop.events/591	Increased, amputations	Other
+https://identifiers.org/aop/95	Ether-a-go-go (ERG) voltage-gated potassium channel inhibition leading to reduced survival	https://identifiers.org/aop.events/592	Reduced, survival	Other
+https://identifiers.org/aop/96	Axonal sodium channel modulation leading to acute mortality	https://identifiers.org/aop.events/351	Increased Mortality	Other
+https://identifiers.org/aop/97	5-hydroxytryptamine transporter (5-HTT; SERT) inhibition leading to population decline	https://identifiers.org/aop.events/360	Decrease, Population growth rate	Other
+https://identifiers.org/aop/98	5-hydroxytryptamine transporter (5-HTT; SERT) inhibition leading to decreased shelter seeking and increased predation	https://identifiers.org/aop.events/588	Increased, predation	Other
+https://identifiers.org/aop/99	Histamine (H2) receptor antagonism leading to reduced survival	https://identifiers.org/aop.events/588	Increased, predation	Other

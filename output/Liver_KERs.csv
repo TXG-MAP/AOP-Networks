@@ -1,0 +1,234 @@
+KEup,KEdown
+"Increase, Preneoplastic foci (hepatocytes)","Increase, hepatocellular adenomas and carcinomas"
+"Increase, Cytotoxicity (hepatocytes)","Increase, Regenerative cell proliferation (hepatocytes)"
+"Increase, Regenerative cell proliferation (hepatocytes)","Increase, Preneoplastic foci (hepatocytes)"
+"Inhibition, Bile Salt Export Pump (ABCB11)","Bile accumulation, Pathological condition"
+"Increase, Inflammation","Cholestasis, Pathology"
+Peptide Oxidation,"Cholestasis, Pathology"
+"Bile accumulation, Pathological condition","Production, Reactive oxygen species"
+"Bile accumulation, Pathological condition","Release, Cytokine"
+"Bile accumulation, Pathological condition","Activation of specific nuclear receptors, Transcriptional change"
+"Production, Reactive oxygen species",Peptide Oxidation
+"Activation of specific nuclear receptors, Transcriptional change","Cholestasis, Pathology"
+"Release, Cytokine","Increase, Inflammation"
+"Up Regulation, CD36","Increased, FA Influx"
+"Decreased, Mitochondrial fatty acid beta-oxidation","Accumulation, Fatty acid"
+"Activation, PXR/SXR","Up Regulation, CD36"
+"Activation, PXR/SXR","Inhibition, FoxA2"
+"Activation, PXR/SXR","Up Regulation, SCD-1"
+"Accumulation, Fatty acid","Increased, Liver Steatosis"
+"Increased, Triglyceride formation","Increased, Liver Steatosis"
+"Up Regulation, SCD-1","Increased, Triglyceride formation"
+"Increased, FA Influx","Increased, Triglyceride formation"
+"Increased, FA Influx","Accumulation, Fatty acid"
+"Inhibition, FoxA2","Down Regulation, CPT1A"
+"Inhibition, FoxA2","Down Regulation, HMGCS2"
+"Down Regulation, CPT1A","Decreased, Mitochondrial fatty acid beta-oxidation"
+"Down Regulation, HMGCS2","Decreased, Ketogenesis"
+"Decreased, Ketogenesis","Accumulation, Fatty acid"
+Increase in inflammation,Immune mediated hepatitis
+benzoquinone imine and acylglucuronide metabolites,Immune cell activation
+benzoquinone imine and acylglucuronide metabolites,Mitochondrial dysfunction
+Activation of ER stress,Apoptotic cell death
+Mitochondrial dysfunction,Apoptotic cell death
+Mitochondrial dysfunction,Activation of ER stress
+Apoptotic cell death,Increase in inflammation
+Immune cell activation,IFNγ signaling
+IFNγ signaling,Increase in inflammation
+"Activation, LXR","Up Regulation, SCD-1"
+"Activation, LXR","Activation, ChREBP"
+"Activation, LXR","Up Regulation, Acetyl-CoA carboxylase-1 (ACC-1)"
+"Activation, LXR","Up Regulation, CD36"
+"Activation, LXR","Activation, SREBF1"
+"Activation, LXR","Inhibition, PPAR alpha"
+"Activation, LXR","Up Regulation, FAS"
+"Activation, ChREBP","Increased, De Novo FA synthesis"
+peroxisome proliferator activated receptor promoter demethylation,"Activation, SREBF1"
+peroxisome proliferator activated receptor promoter demethylation,"Increased, FA Influx"
+"Accumulation, Fatty acid","Increased, Triglyceride formation"
+"Inhibition, Mitochondrial fatty acid beta-oxidation","Accumulation, Fatty acid"
+"Suppression, Constitutive androstane receptor, NR1l3","Activation, LXR"
+"Suppression, Constitutive androstane receptor, NR1l3",peroxisome proliferator activated receptor promoter demethylation
+"Activation, SREBF1","Up Regulation, SCD-1"
+"Increased, De Novo FA synthesis","Accumulation, Fatty acid"
+"Up Regulation, FAS","Increased, De Novo FA synthesis"
+"Inhibition, PPAR alpha","Inhibition, Mitochondrial fatty acid beta-oxidation"
+"Up Regulation, Acetyl-CoA carboxylase-1 (ACC-1)","Increased, De Novo FA synthesis"
+Peptide Oxidation,"Increase, Cytotoxicity"
+"Inhibition, Pyruvate dehydrogenase kinase (PDK) enzyme","Increased, Induction of pyruvate dehydrogenase (PDH)"
+"Increased, Induction of pyruvate dehydrogenase (PDH)","Increase, Oxidative metabolism"
+"Increase, Cytotoxicity","Increase, hepatocellular adenomas and carcinomas"
+"Increase, Oxidative metabolism",Peptide Oxidation
+"Increase, Mitochondrial complex III antagonism",Decrease in mitochondrial oxidative phosphorylation
+Mitochondrial Complex IV inhibition,Decrease in mitochondrial oxidative phosphorylation
+Mitochondrial Complex V inhibition,Decrease in mitochondrial oxidative phosphorylation
+"Inhibition, NADH-ubiquinone oxidoreductase  (complex I)",Decrease in mitochondrial oxidative phosphorylation
+"Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)","Inhibition, NADH-ubiquinone oxidoreductase  (complex I)"
+Decrease in mitochondrial oxidative phosphorylation,"N/A, Mitochondrial dysfunction 1"
+Increased reactive oxygen species (in the mitochondria),"N/A, Mitochondrial dysfunction 1"
+Necrotic Tissue,Liver Injury
+Binding of inhibitor to mitochondrial complex III,"Increase, Mitochondrial complex III antagonism"
+Binding of inhibitor to mitochondrial complex IV,Mitochondrial Complex IV inhibition
+Binding of inhibitor to mitochondrial complex V,Mitochondrial Complex V inhibition
+"N/A, Mitochondrial dysfunction 1",Increased reactive oxygen species (in the mitochondria)
+"N/A, Mitochondrial dysfunction 1","Impaired, Proteostasis"
+Cell injury/death,Necrotic Tissue
+"Impaired, Proteostasis",Cell injury/death
+"N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects","Alterations, Cellular proliferation / hyperplasia"
+"Activation, Long term AHR receptor driven direct and indirect gene expression changes","Formation, Hepatocellular and Bile duct tumors"
+"Activation, Long term AHR receptor driven direct and indirect gene expression changes","N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects"
+"Activation, Long term AHR receptor driven direct and indirect gene expression changes","Alterations, Cellular proliferation / hyperplasia"
+"Activation, Long term AHR receptor driven direct and indirect gene expression changes","Changes/Inhibition, Cellular Homeostasis and Apoptosis"
+"Changes/Inhibition, Cellular Homeostasis and Apoptosis","N/A, Hepatotoxicity, Hepatopathy, including a constellation of observable effects"
+"Alterations, Cellular proliferation / hyperplasia","Formation, Hepatocellular and Bile duct tumors"
+"Increased, Reactive oxygen species","Increased, Oncotic Necrosis"
+"Increase, cytosolic fatty acid","Increased, Liver Steatosis"
+"Inhibition, Fatty Acid Beta Oxidation","Increase, cytosolic fatty acid"
+"Increased, Oncotic Necrosis","N/A, Steatohepatisis"
+"Increased, Liver Steatosis","Increased, Reactive oxygen species"
+"Decreased, HSD17B10 expression","Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity"
+"Decreased, PPAR-alpha activation","Decreased, HSD17B10 expression"
+"Decreased, PPAR-beta activation","Decreased, HSD17B10 expression"
+"Decreased, PPAR-gamma activation","Decreased, HSD17B10 expression"
+"Decreased, 3-hydroxyacyl-CoA dehydrogenase type-2 activity","Decreased, Mitochondrial fatty acid beta-oxidation"
+Activation of Cyp2E1,Oxidative Stress 
+Activation of Cyp2E1,Hepatocytotoxicity
+Oxidative Stress ,Hepatocytotoxicity
+Oxidative Stress ,Liver Cancer
+Hepatocytotoxicity,"Induction, persistent proliferation/sustained proliferation"
+Hepatocytotoxicity,Liver Cancer
+"Induction, persistent proliferation/sustained proliferation",Liver Cancer
+"Increase, cell proliferation (hepatocytes)","Increase, hepatocellular adenomas and carcinomas"
+"Increase, cell proliferation (hepatocytes)","Increase, Clonal Expansion of Altered Hepatic Foci"
+"Increase, Phenotypic enzyme activity","Increase, cell proliferation (hepatocytes)"
+"Increase, Clonal Expansion of Altered Hepatic Foci","Increase, hepatocellular adenomas and carcinomas"
+"Activation, PPARα","Increase, cell proliferation (hepatocytes)"
+"Activation, PPARα","Increase, hepatocellular adenomas and carcinomas"
+"Activation, PPARα","Increase, Phenotypic enzyme activity"
+"Up Regulation, SREBF2","Up Regulation, Unsaturated fatty acid"
+"Up Regulation, Unsaturated fatty acid",Perturbation of cholesterol
+"Down Regulation, GSS and GSTs gene",Glutathione homeostasis
+"Down Regulation, GSS and GSTs gene",Glutathione synthesis
+Glutathione synthesis,"Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene"
+"Activation, 3-hydroxy-3-methylglutaryl-CoA reductase gene",Perturbation of cholesterol
+Perturbation of cholesterol,Hepatotoxicity
+Glutathione homeostasis,Hepatotoxicity
+"Activation, SREBF1","Increased, Liver Steatosis"
+"Activation, AKT2","Activation, SREBF1"
+systemic inflammation leading to hepatic steatosis,"Activation, AKT2"
+"Increased, extracellular matrix deposition","N/A, Liver fibrosis"
+"Increased, Reactive oxygen species","Increased, extracellular matrix deposition"
+Induced dysregulation of ACE2 ,Increase plasma Ang II
+Increase plasma Ang II,Increased Ang II type 1 receptor (AT1R)
+Increased Ang II type 1 receptor (AT1R),"Increased, Reactive oxygen species"
+Unfolded Protein Response,Apoptosis
+Inhibition of N-linked glycosylation,Accumulation of misfolded proteins
+Apoptosis,Activation of hepatic stellate cells
+Apoptosis,Liver Injury
+Accumulation of misfolded proteins,Unfolded Protein Response
+Activation of hepatic stellate cells,Liver Injury
+Tissue resident cell activation,Increased Pro-inflammatory mediators
+Increased Pro-inflammatory mediators,"Activation, Stellate cells"
+"Alkylation, Protein",Cell injury/death
+"Activation, Stellate cells","Accumulation, Collagen"
+Cell injury/death,Tissue resident cell activation
+Cell injury/death,"Activation, Stellate cells"
+"Accumulation, Collagen","N/A, Liver fibrosis"
+NFE2/Nrf2 repression,"Reduced, FXR activity"
+"Reduced, FXR activity","Reduced, SHP activity"
+"Reduced, SHP activity","Activated, LXR"
+"Activated, LXR","Reduced, PPARalpha"
+"Reduced, PPARalpha","Reduced, HSD17B4 activity"
+"Reduced, HSD17B4 activity","Reduced, fatty acid beta oxidation"
+"Reduced, fatty acid beta oxidation","Increased, steatosis"
+"Hyperplasia, Hyperplasia","Promotion, Hepatocelluar carcinoma"
+"N/A, Unknown","Proliferation, Cell proliferation in the absence of cytotoxicity"
+"Proliferation, Cell proliferation in the absence of cytotoxicity","Hyperplasia, Hyperplasia"
+"Altered gene expression specific to CAR activation, Hepatocytes","Increase, cell proliferation (hepatocytes)"
+"Activation, Constitutive androstane receptor","Altered gene expression specific to CAR activation, Hepatocytes"
+"Increase, cell proliferation (hepatocytes)","Increase, Preneoplastic foci (hepatocytes)"
+"Formation, Pro-mutagenic DNA Adducts","Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts"
+"Formation, Pro-mutagenic DNA Adducts","Tumorigenesis, Hepatocellular carcinoma"
+"Formation, Pro-mutagenic DNA Adducts","Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)"
+"Increased, Induced Mutations in Critical Genes","Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)"
+"Increased, Induced Mutations in Critical Genes","Tumorigenesis, Hepatocellular carcinoma"
+"Metabolism of AFB1, Production of Reactive Electrophiles","Formation, Pro-mutagenic DNA Adducts"
+"Clonal Expansion/Cell Proliferation, to form Altered Hepatic Foci (AHF)","Tumorigenesis, Hepatocellular carcinoma"
+"Increased, Insufficient repair or mis-repair of pro-mutagenic DNA adducts","Increased, Induced Mutations in Critical Genes"
+"Activation, PPARα","Activation, LXR alpha"
+"Inhibition, Mitochondrial fatty acid beta-oxidation","Increased, Liver Steatosis"
+"Increased, De Novo FA synthesis","Increased, Liver Steatosis"
+"Activation, NRF2","Activation, NR1H4"
+"Activation, NR1H4","Activation, PPARα"
+"Activation, NR1H4","Activation, SHP"
+"Activation, SHP","Inhibition, SREBP1c"
+"Decreased, DHB4/HSD17B4","Inhibition, Mitochondrial fatty acid beta-oxidation"
+"Activation, LXR alpha","Increased, De Novo FA synthesis"
+"Activation, Androgen receptor","Increase, cell proliferation (hepatocytes)"
+"Activation, PARP1","N/A, Mitochondrial dysfunction 1"
+"Increase, FA Influx","Accumulation, Triglyceride"
+"Activation, FAS","Synthesis, De Novo FA"
+"Activation, LXR","Activation, SCD-1"
+"Activation, LXR","Activation, FAS"
+"Activation, LXR","Activation, SREBP-1c"
+"Activation, SCD-1","Synthesis, De Novo FA"
+"Activation, SREBP-1c","Synthesis, De Novo FA"
+"Up Regulation, CD36","Increase, FA Influx"
+"Activation, ChREBP","Synthesis, De Novo FA"
+"Synthesis, De Novo FA","Accumulation, Triglyceride"
+peroxisome proliferator activated receptor promoter demethylation,"Up Regulation, CD36"
+"Accumulation, Triglyceride","Damaging, Mitochondria"
+"Inhibition, Phospholipase A","Disturbance, Lysosomal function"
+"Inhibition, Phospholipase A","Damage, Lipid bilayer"
+"Inhibition, Phospholipase A","Injury, Mitochondria"
+"Damage, Lipid bilayer","Occurrence, Cytoplasmic vacuolization (Bile duct cell)"
+"Damage, Lipid bilayer","Occurrence, Cytoplasmic vacuolization (hepatocyte)"
+"Damage, Lipid bilayer","Occurrence, Cytoplasmic vacuolization (kupffer cell)"
+"Damage, Lipid bilayer","Occurrence, Ballooning degeneration (hepatocyte)"
+"Disturbance, Lysosomal function","Occurrence, Ballooning degeneration (hepatocyte)"
+"Disturbance, Lysosomal function","Occurrence, Cytoplasmic vacuolization (kupffer cell)"
+"Disturbance, Lysosomal function","Occurrence, Cytoplasmic vacuolization (Bile duct cell)"
+"Disturbance, Lysosomal function","Occurrence, Cytoplasmic vacuolization (hepatocyte)"
+"Injury, Mitochondria","Occurrence, Cytoplasmic vacuolization (kupffer cell)"
+"Injury, Mitochondria","Occurrence, Cytoplasmic vacuolization (hepatocyte)"
+"Injury, Mitochondria","Occurrence, Ballooning degeneration (hepatocyte)"
+"Injury, Mitochondria","Occurrence, Cytoplasmic vacuolization (Bile duct cell)"
+"Occurrence, Cytoplasmic vacuolization (hepatocyte)","Induction, Microvesicular fat"
+"Occurrence, Cytoplasmic vacuolization (hepatocyte)","Formation, Mallory body"
+"Occurrence, Ballooning degeneration (hepatocyte)","Induction, Microvesicular fat"
+"Occurrence, Ballooning degeneration (hepatocyte)","Formation, Mallory body"
+"Occurrence, Cytoplasmic vacuolization (Bile duct cell)","Induction, Microvesicular fat"
+"Occurrence, Cytoplasmic vacuolization (Bile duct cell)","Formation, Mallory body"
+"Occurrence, Cytoplasmic vacuolization (kupffer cell)","Induction, Microvesicular fat"
+"Occurrence, Cytoplasmic vacuolization (kupffer cell)","Formation, Mallory body"
+"Induction, Microvesicular fat","Formation, Liver fibrosis"
+"Formation, Mallory body","Formation, Liver fibrosis"
+Leukocyte recruitment/activation,"Activation, Stellate cells"
+Increased Pro-inflammatory mediators,Leukocyte recruitment/activation
+Endocytotic lysosomal uptake,"Disruption, Lysosome"
+"N/A, Mitochondrial dysfunction 1",Cell injury/death
+Cell injury/death,Increased Pro-inflammatory mediators
+"Disruption, Lysosome","N/A, Mitochondrial dysfunction 1"
+"Inhibition, IKK complex","Inhibition, Nuclear factor kappa B (NF-kB)"
+"Activation, Caspase 8 pathway",Cell injury/death
+"Activation, Tissue resident cells (Kuppfer cells)","Increase, proinflammatory mediators (TNFalpha)"
+"Inhibition, Nuclear factor kappa B (NF-kB)","Activation, Caspase 8 pathway"
+Cell injury/death,"Activation, Tissue resident cells (Kuppfer cells)"
+"Activation, Glucocorticoid Receptor","Decrease, Acyl-CoA dehydrogenases"
+"Decrease, Acyl-CoA dehydrogenases","Decreased, Mitochondrial Fatty Acid Beta Oxidation"
+"Accumulation, Triglyceride","Increased, Liver Steatosis"
+"Decreased, Mitochondrial Fatty Acid Beta Oxidation","Accumulation, Triglyceride"
+"Activation, AhR","Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)"
+"Activation, AhR","Suppression, VLDL secretion"
+"Activation, AhR","Up Regulation, CD36"
+"Activation, AhR","Up Regulation, LDLR (low density lipoprotein receptor)"
+"Activation, AhR","Up Regulation, SCD-1"
+"Activation, AhR","Up Regulation, CYP1A1"
+"Activation, AhR","Inhibition, Mitochondrial fatty acid beta-oxidation"
+"Decreased, PCK1 expression (control point for glycolysis/gluconeogenesis pathway)","Accumulation, Fatty acid"
+"Accumulation, Triglyceride","Accumulation, Liver lipid"
+"Accumulation, Fatty acid","Accumulation, Liver lipid"
+"Suppression, VLDL secretion","Accumulation, Liver lipid"
+"Up Regulation, SCD-1","Accumulation, Triglyceride"
+"Up Regulation, LDLR (low density lipoprotein receptor)","Increased, LDL uptake"
+"Increased, LDL uptake","Accumulation, Fatty acid"
