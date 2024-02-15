@@ -1,6 +1,6 @@
 MIEtitle	StressorNames
-Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)	Adefovir | Adefovir dipivoxil | Cidofovir | Tenofovir | Tenofovir disoproxil fumarate
-Unknown, MIE	Diclofenac sodium
 Binding of substrate, endocytic receptor	Albumin | Aminoglycosides | Cadmium | Colistin | Gentamicin | Polymyxin B | Tobramycin | Vancomycin | low molecular weight proteins
 Oxidation, Glutathione (To be considered with MIE)	Arsenic | Bis(2,4,6-trimethylphenyl)-lambda~2~-germane--selenium (1/1) | Uranium
+Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)	Adefovir | Adefovir dipivoxil | Cidofovir | Tenofovir | Tenofovir disoproxil fumarate
 Inhibition, Cyclooxygenase 1 activity	Carprofen | Celecoxib | Clofibrate | Diclofenac sodium | Ibuprofen | Indomethacin | Ketoprofen | Meloxicam | Phenylbutazone | flunixin meglumine | nimesulide
+Unknown, MIE	Diclofenac sodium

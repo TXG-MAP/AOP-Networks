@@ -1,14 +1,14 @@
 MIEtitle	StressorNames
-Oxidative Stress 	Acrolein | Cigarette smoke | Diesel engine exhaust | Nitrogen dioxide | Ozone
-Activation, EGFR	Reactive oxygen species
-Frustrated phagocytosis	High aspect ratio material
 TRPA1 activation, TRPA1 Receptor	2-Chlorobenzalmalononitrile | Dibenzo[B,F][1,4]Oxazepine
-Frustrated phagocytosis	Asbestos fibers | Carbon nanotubes | Carbon nanotubes, Multi-walled carbon nanotubes, single-walled carbon nanotubes, carbon nanofibres | High aspect ratio material | Multi-walled carbon nanotubes | Single walled carbon nanotubes
-Induced dysregulation of ACE2 	DX600 | Losartan | PM 2.5 | Streptozocin | cationic polyamidoamine dendrimer (nanoparticle)
-Oxidative Stress 	Acrolein | Cigarette smoke | Ozone
-Substance interaction with the lung resident cell membrane components	Carbon black | Diesel engine exhaust | Titanium dioxide nanoparticles | nanomaterials | nanoparticles | welding fumes
-Binding to ACE2	HCoV-NL63 | SARS-CoV | Sars-CoV-2
-Substance interaction with the lung resident cell membrane components	Bleomycin | Carbon nanotubes, Multi-walled carbon nanotubes, single-walled carbon nanotubes, carbon nanofibres
+Oxidative Stress 	Acrolein | Cigarette smoke | Diesel engine exhaust | Nitrogen dioxide | Ozone
 Activation, Latent Transforming Growth Factor Beta 1	Carbon nanotubes
 Oxidative Stress 	Cigarette smoke
+Oxidative Stress 	Acrolein | Cigarette smoke | Ozone
+Activation, EGFR	Reactive oxygen species
+Substance interaction with the lung resident cell membrane components	Carbon black | Diesel engine exhaust | Titanium dioxide nanoparticles | nanomaterials | nanoparticles | welding fumes
+Frustrated phagocytosis	Asbestos fibers | Carbon nanotubes | Carbon nanotubes, Multi-walled carbon nanotubes, single-walled carbon nanotubes, carbon nanofibres | High aspect ratio material | Multi-walled carbon nanotubes | Single walled carbon nanotubes
+Induced dysregulation of ACE2 	DX600 | Losartan | PM 2.5 | Streptozocin | cationic polyamidoamine dendrimer (nanoparticle)
+Frustrated phagocytosis	High aspect ratio material
 Deposition of Energy	Ionizing Radiation
+Binding to ACE2	HCoV-NL63 | SARS-CoV | Sars-CoV-2
+Substance interaction with the lung resident cell membrane components	Bleomycin | Carbon nanotubes, Multi-walled carbon nanotubes, single-walled carbon nanotubes, carbon nanofibres

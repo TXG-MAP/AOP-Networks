@@ -1,19 +1,19 @@
 MIEtitle	StressorNames
-Thyroperoxidase, Inhibition	Methimazole | Propylthiouracil
-Inhibition, Na+/I- symporter (NIS)	Aryltrifluoroborates | Dysidenin | Nitrate | Perchlorate | Thiocyanate
-Binding to ACE2	Sars-CoV-2 | Virus | bacteria
-Acetylcholinesterase (AchE) Inhibition	Ethyl Parathion | Methyl parathion | N-methyl Carbamates | Organophosphates | Paraoxon
-Inhibition of Ceramide Synthase 	Fumonisin B1
+Increased, glucocorticoid receptor activity	Increase cortisone levels (induced by stress)
 CYP2E1 Activation	Acetaminophen | Chemical:584015 (1-~13~C)Aniline | Chlorzoxazone | Enflurane | Ethanol | Halothane | Isoflurane | Isoniazid | Methoxyflurane | Sevoflurane | Titanium oxide (TiO)
 Protein Adduct Formation	Acetaminophen | Chemical:584015 (1-~13~C)Aniline | Chlorzoxazone | Enflurane | Ethanol | Halothane | Isoflurane | Isoniazid | Methoxyflurane | Sevoflurane | Titanium oxide (TiO)
+Increased, glucocorticoid receptor activity	Increase cortisone levels (induced by stress)
 Binding at picrotoxin site, iGABAR chloride channel	Dieldrin | Endosulfan | Fipronil | Heptachlor | Lindane | Picrotoxin | RDX
 Increased, serotonin transporter activity	serotonin transporter activation
-Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	MPP+ | Rotenone
-Binding, Transthyretin in serum	2,2',4,4'-Tetrahydroxybenzophenone | 2,6-dinitro-p-cresol | Clonixin | Halogenated phenols | Isoflavones | Meclofenamic acid | Perflourinated chemicals | Phthalates | Polybrominated diphenyl ethers | Polychlorinated biphenyl | Polychlorinated dibenzodioxins | Tetrabromobisphenol A | Triclopyr
+Inhibition of Ceramide Synthase 	Fumonisin B1
 Acetylcholinesterase (AchE) Inhibition	Ethyl Parathion | Methyl parathion | Organophosphates | Paraoxon
-Increased, serotonin transporter activity	serotonin transporter activation
-Increased, glucocorticoid receptor activity	Increase cortisone levels (induced by stress)
-Increased, glucocorticoid receptor activity	Increase cortisone levels (induced by stress)
-Binding to voltage-gated sodium channel	Pyrethrins and Pyrethroids
-Binding of antagonist, NMDA receptors	Lead
 Binding, Thiol/seleno-proteins involved in protection against oxidative stress	Acrylamide | Mercuric chloride | Methylmercuric(II) chloride
+Binding to ACE2	Sars-CoV-2 | Virus | bacteria
+Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	MPP+ | Rotenone
+Binding of antagonist, NMDA receptors	Lead
+Acetylcholinesterase (AchE) Inhibition	Ethyl Parathion | Methyl parathion | N-methyl Carbamates | Organophosphates | Paraoxon
+Binding to voltage-gated sodium channel	Pyrethrins and Pyrethroids
+Thyroperoxidase, Inhibition	Methimazole | Propylthiouracil
+Binding, Transthyretin in serum	2,2',4,4'-Tetrahydroxybenzophenone | 2,6-dinitro-p-cresol | Clonixin | Halogenated phenols | Isoflavones | Meclofenamic acid | Perflourinated chemicals | Phthalates | Polybrominated diphenyl ethers | Polychlorinated biphenyl | Polychlorinated dibenzodioxins | Tetrabromobisphenol A | Triclopyr
+Inhibition, Na+/I- symporter (NIS)	Aryltrifluoroborates | Dysidenin | Nitrate | Perchlorate | Thiocyanate
+Increased, serotonin transporter activity	serotonin transporter activation
