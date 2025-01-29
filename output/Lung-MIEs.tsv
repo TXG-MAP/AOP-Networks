@@ -1,22 +1,22 @@
 MIEtitle	StressorNames	Chemicals
 Inhibition of lung surfactant function		
-Increase, Cytotoxicity (club cells)		
-TRPA1 activation, TRPA1 Receptor	2-Chlorobenzalmalononitrile | Dibenzo[B,F][1,4]Oxazepine	
-Oxidative Stress 	Acrolein | Cigarette smoke | Diesel engine exhaust | Nitrogen dioxide | Ozone	NOCAS | https://identifiers.org/cas/10028-15-6 | https://identifiers.org/cas/10102-44-0 | https://identifiers.org/cas/107-02-8
+Substance interaction with the lung resident cell membrane components	Bleomycin | Carbon nanotubes, Multi-walled carbon nanotubes, single-walled carbon nanotubes, carbon nanofibres	https://identifiers.org/cas/11056-06-7
+Interaction of α-diketones with arginine residues		
 Activation, Latent Transforming Growth Factor Beta 1	Carbon nanotubes	
-Oxidative Stress 	Cigarette smoke	NOCAS
+Substance interaction with the lung resident cell membrane components	Carbon black | Diesel engine exhaust | Titanium dioxide nanoparticles | nanomaterials | nanoparticles | welding fumes	NOCAS | https://identifiers.org/cas/1333-86-4
+Frustrated phagocytosis	High aspect ratio material	
 Oxidative Stress 	Acrolein | Cigarette smoke | Ozone	NOCAS | https://identifiers.org/cas/10028-15-6 | https://identifiers.org/cas/107-02-8
+Non-coding RNA expression profile alteration		
+Binding to ACE2	HCoV-NL63 | SARS-CoV | Sars-CoV-2	
+Oxidative Stress 	Acrolein | Cigarette smoke | Diesel engine exhaust | Nitrogen dioxide | Ozone	NOCAS | https://identifiers.org/cas/10028-15-6 | https://identifiers.org/cas/10102-44-0 | https://identifiers.org/cas/107-02-8
+Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)		
+Induced dysregulation of ACE2 	DX600 | Losartan | PM 2.5 | Streptozocin | cationic polyamidoamine dendrimer (nanoparticle)	https://identifiers.org/cas/114798-26-4
+TRPA1 activation, TRPA1 Receptor	2-Chlorobenzalmalononitrile | Dibenzo[B,F][1,4]Oxazepine	
+Frustrated phagocytosis	Asbestos fibers | Carbon nanotubes | Carbon nanotubes, Multi-walled carbon nanotubes, single-walled carbon nanotubes, carbon nanofibres | High aspect ratio material | Multi-walled carbon nanotubes | Single walled carbon nanotubes	NOCAS
+Activation, EGFR	Reactive oxygen species	
+Oxidative Stress 	Cigarette smoke	NOCAS
+Increase, Cytotoxicity (club cells)		
 Inactivation of PPARγ		
 Toll-like receptor 4 activation		
-Non-coding RNA expression profile alteration		
-Activation, EGFR	Reactive oxygen species	
-Substance interaction with the lung resident cell membrane components	Carbon black | Diesel engine exhaust | Titanium dioxide nanoparticles | nanomaterials | nanoparticles | welding fumes	NOCAS | https://identifiers.org/cas/1333-86-4
-Frustrated phagocytosis	Asbestos fibers | Carbon nanotubes | Carbon nanotubes, Multi-walled carbon nanotubes, single-walled carbon nanotubes, carbon nanofibres | High aspect ratio material | Multi-walled carbon nanotubes | Single walled carbon nanotubes	NOCAS
-Induced dysregulation of ACE2 	DX600 | Losartan | PM 2.5 | Streptozocin | cationic polyamidoamine dendrimer (nanoparticle)	https://identifiers.org/cas/114798-26-4
-Frustrated phagocytosis	High aspect ratio material	
 Inactivation of PPARγ		
-Interaction of α-diketones with arginine residues		
 Deposition of Energy	Ionizing Radiation	
-Binding to ACE2	HCoV-NL63 | SARS-CoV | Sars-CoV-2	
-Substance interaction with the lung resident cell membrane components	Bleomycin | Carbon nanotubes, Multi-walled carbon nanotubes, single-walled carbon nanotubes, carbon nanofibres	https://identifiers.org/cas/11056-06-7
-Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)		

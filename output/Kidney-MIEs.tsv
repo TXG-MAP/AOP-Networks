@@ -1,16 +1,16 @@
 MIEtitle	StressorNames	Chemicals
-Alkylation, Protein		
+Thyroid hormone synthesis, Decreased		
+Inhibition, Mitochondrial Electron Transport Chain Complexes		
 Binding of substrate, endocytic receptor	Albumin | Aminoglycosides | Cadmium | Colistin | Gentamicin | Polymyxin B | Tobramycin | Vancomycin | low molecular weight proteins	https://identifiers.org/cas/1066-17-7 | https://identifiers.org/cas/1403-66-3 | https://identifiers.org/cas/1404-26-8 | https://identifiers.org/cas/1404-90-6 | https://identifiers.org/cas/308060-74-4 | https://identifiers.org/cas/32986-56-4 | https://identifiers.org/cas/7440-43-9
 Inhibition, organic anion transporter 1 (OAT1)		
-Oxidation, Glutathione (To be considered with MIE)	Arsenic | Bis(2,4,6-trimethylphenyl)-lambda~2~-germane--selenium (1/1) | Uranium	https://identifiers.org/cas/115385-04-1 | https://identifiers.org/cas/7440-38-2 | https://identifiers.org/cas/7440-61-1
+Alkylation, Protein		
 Inhibition of mitochondrial DNA polymerase gamma (Pol gamma)	Adefovir | Adefovir dipivoxil | Cidofovir | Tenofovir | Tenofovir disoproxil fumarate	https://identifiers.org/cas/106941-25-7 | https://identifiers.org/cas/113852-37-2 | https://identifiers.org/cas/142340-99-6 | https://identifiers.org/cas/147127-20-6 | https://identifiers.org/cas/202138-50-9
-Binding, Thiol/seleno-proteins involved in protection against oxidative stress		
-Activation, 5HT2c		
-Increase, Cytotoxicity (tubular epithelial cells)		
-Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)		
-Inhibition, Cyclooxygenase 1 activity	Carprofen | Celecoxib | Clofibrate | Diclofenac sodium | Ibuprofen | Indomethacin | Ketoprofen | Meloxicam | Phenylbutazone | flunixin meglumine | nimesulide	https://identifiers.org/cas/15307-79-6 | https://identifiers.org/cas/15687-27-1 | https://identifiers.org/cas/169590-42-5 | https://identifiers.org/cas/22071-15-4 | https://identifiers.org/cas/42461-84-7 | https://identifiers.org/cas/50-33-9 | https://identifiers.org/cas/51803-78-2 | https://identifiers.org/cas/53-86-1 | https://identifiers.org/cas/53716-49-7 | https://identifiers.org/cas/637-07-0 | https://identifiers.org/cas/71125-38-7
 Hyperactivation of ACE/Ang-II/AT1R axis		
+Increase, Cytotoxicity (tubular epithelial cells)		
+Inhibition, Cyclooxygenase 1 activity	Carprofen | Celecoxib | Clofibrate | Diclofenac sodium | Ibuprofen | Indomethacin | Ketoprofen | Meloxicam | Phenylbutazone | flunixin meglumine | nimesulide	https://identifiers.org/cas/15307-79-6 | https://identifiers.org/cas/15687-27-1 | https://identifiers.org/cas/169590-42-5 | https://identifiers.org/cas/22071-15-4 | https://identifiers.org/cas/42461-84-7 | https://identifiers.org/cas/50-33-9 | https://identifiers.org/cas/51803-78-2 | https://identifiers.org/cas/53-86-1 | https://identifiers.org/cas/53716-49-7 | https://identifiers.org/cas/637-07-0 | https://identifiers.org/cas/71125-38-7
 Unknown, MIE	Diclofenac sodium	https://identifiers.org/cas/15307-79-6
-Thyroid hormone synthesis, Decreased		
+Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)		
+Activation, 5HT2c		
+Binding, Thiol/seleno-proteins involved in protection against oxidative stress		
+Oxidation, Glutathione (To be considered with MIE)	Arsenic | Bis(2,4,6-trimethylphenyl)-lambda~2~-germane--selenium (1/1) | Uranium	https://identifiers.org/cas/115385-04-1 | https://identifiers.org/cas/7440-38-2 | https://identifiers.org/cas/7440-61-1
 Increased, Binding of chemicals to 2u (serum)		
-Inhibition, Mitochondrial Electron Transport Chain Complexes		

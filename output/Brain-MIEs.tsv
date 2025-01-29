@@ -1,40 +1,40 @@
 MIEtitle	StressorNames	Chemicals
-Increased, glucocorticoid receptor activity	Increase cortisone levels (induced by stress)	
-Binding of agonist, Ionotropic glutamate receptors		
-CYP2E1 Activation	Acetaminophen | Chemical:584015 (1-~13~C)Aniline | Chlorzoxazone | Enflurane | Ethanol | Halothane | Isoflurane | Isoniazid | Methoxyflurane | Sevoflurane | Titanium oxide (TiO)	https://identifiers.org/cas/103-90-2 | https://identifiers.org/cas/12137-20-1 | https://identifiers.org/cas/13838-16-9 | https://identifiers.org/cas/151-67-7 | https://identifiers.org/cas/26675-46-7 | https://identifiers.org/cas/28523-86-6 | https://identifiers.org/cas/54-85-3 | https://identifiers.org/cas/60-35-5 | https://identifiers.org/cas/64-17-5 | https://identifiers.org/cas/76-38-0 | https://identifiers.org/cas/95-25-0 | https://identifiers.org/cas/968-81-0
-Protein Adduct Formation	Acetaminophen | Chemical:584015 (1-~13~C)Aniline | Chlorzoxazone | Enflurane | Ethanol | Halothane | Isoflurane | Isoniazid | Methoxyflurane | Sevoflurane | Titanium oxide (TiO)	https://identifiers.org/cas/103-90-2 | https://identifiers.org/cas/12137-20-1 | https://identifiers.org/cas/13838-16-9 | https://identifiers.org/cas/151-67-7 | https://identifiers.org/cas/26675-46-7 | https://identifiers.org/cas/28523-86-6 | https://identifiers.org/cas/54-85-3 | https://identifiers.org/cas/60-35-5 | https://identifiers.org/cas/64-17-5 | https://identifiers.org/cas/76-38-0 | https://identifiers.org/cas/95-25-0 | https://identifiers.org/cas/968-81-0
-Inhibition, Na+/I- symporter (NIS)		
-Increased, glucocorticoid receptor activity	Increase cortisone levels (induced by stress)	
-Binding to ACE2		
-Binding at picrotoxin site, iGABAR chloride channel	Dieldrin | Endosulfan | Fipronil | Heptachlor | Lindane | Picrotoxin | RDX	https://identifiers.org/cas/115-29-7 | https://identifiers.org/cas/120068-37-3 | https://identifiers.org/cas/124-87-8 | https://identifiers.org/cas/58-89-9 | https://identifiers.org/cas/60-57-1 | https://identifiers.org/cas/76-44-8
-Serotonin 1A Receptor Agonism		
-Binding of microtubule stabilizing agents (MSA) to microtubules		
-Increased, serotonin transporter activity	serotonin transporter activation	
-Inhibition of Ceramide Synthase 	Fumonisin B1	https://identifiers.org/cas/116355-83-0
-Acetylcholinesterase (AchE) Inhibition	Ethyl Parathion | Methyl parathion | Organophosphates | Paraoxon	https://identifiers.org/cas/298-00-0 | https://identifiers.org/cas/311-45-5 | https://identifiers.org/cas/56-38-2 | https://identifiers.org/cas/96-64-0
-Binding, Thiol/seleno-proteins involved in protection against oxidative stress	Acrylamide | Mercuric chloride | Methylmercuric(II) chloride	https://identifiers.org/cas/115-09-3 | https://identifiers.org/cas/7487-94-7 | https://identifiers.org/cas/79-06-1
-Activated, presynaptic neuron 1		
-Binding to ACE2	Sars-CoV-2 | Virus | bacteria	
-Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	MPP+ | Rotenone	https://identifiers.org/cas/83-79-4
-Antagonism, Thyroid Receptor 		
 Activation, Glutamate-gated chloride channel		
-Opening, voltage-gated calcium channels		
-Inhibition GABAA receptor		
-Inositol triphosphate receptor activation		
-Activation of metabotropic glutamate receptor		
-Overactivation, NMDARs		
-Binding of antagonist, NMDA receptors	Lead	https://identifiers.org/cas/7439-92-1
-Reduced, presynaptic neuron 2 activity		
-Acetylcholinesterase (AchE) Inhibition		
-Acetylcholinesterase (AchE) Inhibition	Ethyl Parathion | Methyl parathion | N-methyl Carbamates | Organophosphates | Paraoxon	https://identifiers.org/cas/298-00-0 | https://identifiers.org/cas/311-45-5 | https://identifiers.org/cas/56-38-2 | https://identifiers.org/cas/96-64-0
-Binding to voltage-gated sodium channel	Pyrethrins and Pyrethroids	
-Binding of antagonist, NMDA receptors		
-Histone deacetylase inhibition		
-Thyroperoxidase, Inhibition	Methimazole | Propylthiouracil	https://identifiers.org/cas/51-52-5 | https://identifiers.org/cas/60-56-0
 Inhibition, Na+/I- symporter (NIS)		
-Acetylcholinesterase (AchE) Inhibition		
-Binding, Transthyretin in serum	2,2',4,4'-Tetrahydroxybenzophenone | 2,6-dinitro-p-cresol | Clonixin | Halogenated phenols | Isoflavones | Meclofenamic acid | Perflourinated chemicals | Phthalates | Polybrominated diphenyl ethers | Polychlorinated biphenyl | Polychlorinated dibenzodioxins | Tetrabromobisphenol A | Triclopyr	https://identifiers.org/cas/131-55-5 | https://identifiers.org/cas/17737-65-4 | https://identifiers.org/cas/55335-06-3 | https://identifiers.org/cas/644-62-2 | https://identifiers.org/cas/79-94-7
-Inhibition, Na+/I- symporter (NIS)	Aryltrifluoroborates | Dysidenin | Nitrate | Perchlorate | Thiocyanate	https://identifiers.org/cas/14797-55-8 | https://identifiers.org/cas/14797-73-0 | https://identifiers.org/cas/302-04-5
+Inositol triphosphate receptor activation		
+Overactivation, NMDARs		
+Inhibition GABAA receptor		
+Activation of metabotropic glutamate receptor		
+Opening, voltage-gated calcium channels		
 Increased, serotonin transporter activity	serotonin transporter activation	
+Acetylcholinesterase (AchE) Inhibition		
+Reduced, presynaptic neuron 2 activity		
+Inhibition, Na+/I- symporter (NIS)		
+Increased, glucocorticoid receptor activity	Increase cortisone levels (induced by stress)	
+Acetylcholinesterase (AchE) Inhibition	Ethyl Parathion | Methyl parathion | Organophosphates | Paraoxon	https://identifiers.org/cas/298-00-0 | https://identifiers.org/cas/311-45-5 | https://identifiers.org/cas/56-38-2 | https://identifiers.org/cas/96-64-0
+Histone deacetylase inhibition		
+Inhibition, Na+/I- symporter (NIS)	Aryltrifluoroborates | Dysidenin | Nitrate | Perchlorate | Thiocyanate	https://identifiers.org/cas/14797-55-8 | https://identifiers.org/cas/14797-73-0 | https://identifiers.org/cas/302-04-5
+Binding, Transthyretin in serum	2,2',4,4'-Tetrahydroxybenzophenone | 2,6-dinitro-p-cresol | Clonixin | Halogenated phenols | Isoflavones | Meclofenamic acid | Perflourinated chemicals | Phthalates | Polybrominated diphenyl ethers | Polychlorinated biphenyl | Polychlorinated dibenzodioxins | Tetrabromobisphenol A | Triclopyr	https://identifiers.org/cas/131-55-5 | https://identifiers.org/cas/17737-65-4 | https://identifiers.org/cas/55335-06-3 | https://identifiers.org/cas/644-62-2 | https://identifiers.org/cas/79-94-7
+Inhibition of Ceramide Synthase 	Fumonisin B1	https://identifiers.org/cas/116355-83-0
+Binding of inhibitor, NADH-ubiquinone oxidoreductase (complex I)	MPP+ | Rotenone	https://identifiers.org/cas/83-79-4
 Binding of agonist, Ionotropic glutamate receptors		
+Acetylcholinesterase (AchE) Inhibition	Ethyl Parathion | Methyl parathion | N-methyl Carbamates | Organophosphates | Paraoxon	https://identifiers.org/cas/298-00-0 | https://identifiers.org/cas/311-45-5 | https://identifiers.org/cas/56-38-2 | https://identifiers.org/cas/96-64-0
+Activated, presynaptic neuron 1		
+Binding of antagonist, NMDA receptors	Lead	https://identifiers.org/cas/7439-92-1
+Binding at picrotoxin site, iGABAR chloride channel	Dieldrin | Endosulfan | Fipronil | Heptachlor | Lindane | Picrotoxin | RDX	https://identifiers.org/cas/115-29-7 | https://identifiers.org/cas/120068-37-3 | https://identifiers.org/cas/124-87-8 | https://identifiers.org/cas/58-89-9 | https://identifiers.org/cas/60-57-1 | https://identifiers.org/cas/76-44-8
+Thyroperoxidase, Inhibition	Methimazole | Propylthiouracil	https://identifiers.org/cas/51-52-5 | https://identifiers.org/cas/60-56-0
+Increased, serotonin transporter activity	serotonin transporter activation	
+Binding, Thiol/seleno-proteins involved in protection against oxidative stress	Acrylamide | Mercuric chloride | Methylmercuric(II) chloride	https://identifiers.org/cas/115-09-3 | https://identifiers.org/cas/7487-94-7 | https://identifiers.org/cas/79-06-1
+Binding to ACE2	Sars-CoV-2 | Virus | bacteria	
+Binding to voltage-gated sodium channel	Pyrethrins and Pyrethroids	
+Binding of microtubule stabilizing agents (MSA) to microtubules		
+Binding of agonist, Ionotropic glutamate receptors	N-Methyl-D-aspartic acid | Sodium L-glutamate | amyloid beta | lotenone	https://identifiers.org/cas/142-47-2 | https://identifiers.org/cas/6384-92-5
+Acetylcholinesterase (AchE) Inhibition		
+Serotonin 1A Receptor Agonism		
+Binding to ACE2		
+Protein Adduct Formation	Acetaminophen | Chemical:584015 (1-~13~C)Aniline | Chlorzoxazone | Enflurane | Ethanol | Halothane | Isoflurane | Isoniazid | Methoxyflurane | Sevoflurane | Titanium oxide (TiO)	https://identifiers.org/cas/103-90-2 | https://identifiers.org/cas/12137-20-1 | https://identifiers.org/cas/13838-16-9 | https://identifiers.org/cas/151-67-7 | https://identifiers.org/cas/26675-46-7 | https://identifiers.org/cas/28523-86-6 | https://identifiers.org/cas/54-85-3 | https://identifiers.org/cas/60-35-5 | https://identifiers.org/cas/64-17-5 | https://identifiers.org/cas/76-38-0 | https://identifiers.org/cas/95-25-0 | https://identifiers.org/cas/968-81-0
+CYP2E1 Activation	Acetaminophen | Chemical:584015 (1-~13~C)Aniline | Chlorzoxazone | Enflurane | Ethanol | Halothane | Isoflurane | Isoniazid | Methoxyflurane | Sevoflurane | Titanium oxide (TiO)	https://identifiers.org/cas/103-90-2 | https://identifiers.org/cas/12137-20-1 | https://identifiers.org/cas/13838-16-9 | https://identifiers.org/cas/151-67-7 | https://identifiers.org/cas/26675-46-7 | https://identifiers.org/cas/28523-86-6 | https://identifiers.org/cas/54-85-3 | https://identifiers.org/cas/60-35-5 | https://identifiers.org/cas/64-17-5 | https://identifiers.org/cas/76-38-0 | https://identifiers.org/cas/95-25-0 | https://identifiers.org/cas/968-81-0
+Increased, glucocorticoid receptor activity	Increase cortisone levels (induced by stress)	
+Binding of antagonist, NMDA receptors		
+Antagonism, Thyroid Receptor 		
 Serotonin 1A Receptor Agonism		
